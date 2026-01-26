@@ -1,426 +1,440 @@
 
-local _1IIiI11Ili68="KQ1F84C3BCK6"
-local _liiII1ilII67=#_1IIiI11Ili68
-if _liiII1ilII67~=12 then return end
-local _ill111il1l64=(function()
-local _Iili1Iliii65=function()
-local _l111Ii1llI60={}
-local _11iIilIi1l61="WFZHYX"
-_l111Ii1llI60[_11iIilIi1l61]=function()
-local _11i1iIIl1159=581
-while _11i1iIIl1159~=0 do
-if _11i1iIIl1159==581 then
-local _11I1l11iIi20=function()end
-_11i1iIIl1159=286
+local _iI1illliii57=(function()
+local _IiI1i1i1ii58=function()
+local _Ii11iIil1I56=417
+while _Ii11iIil1I56~=0 do
+if _Ii11iIil1I56==417 then
+local _11l1il11i120="2IOQ89VZ"
+_Ii11iIil1I56=396
 end
-if _11i1iIIl1159==286 then
-local _1Iil1Ii1lI22=3797
-_11i1iIIl1159=622
+if _Ii11iIil1I56==396 then
+local _Ii1l1l111l22={6435,4842}
+_Ii11iIil1I56=328
 end
-if _11i1iIIl1159==622 then
-local _Iil1II1lII24={4027,7847}
-_11i1iIIl1159=463
+if _Ii11iIil1I56==328 then
+local _1li11l1l1i24,_iIIIli1lii25=5150,2455
+_Ii11iIil1I56=167
 end
-if _11i1iIIl1159==463 then
-local _ll1I1I1I1i26,_I1II1Il1Ii27=4656,9708
-_11i1iIIl1159=562
+if _Ii11iIil1I56==167 then
+local _11IlI1Ii1126=2894
+_Ii11iIil1I56=280
 end
-if _11i1iIIl1159==562 then
-local _iIil1lliii28=7340+5771
-_11i1iIIl1159=567
+if _Ii11iIil1I56==280 then
+local _1ii1lii1iI28=function()end
+_Ii11iIil1I56=884
 end
-if _11i1iIIl1159==567 then
-local _1i1il1l11130,_1Il1l1Ii1131=9005,8657
-_11i1iIIl1159=399
+if _Ii11iIil1I56==884 then
+local _llliiI1lll30,_I1i11ili1l31=7302,1495
+_Ii11iIil1I56=798
 end
-if _11i1iIIl1159==399 then
-local _l1IIlIii1i32=4069+2151
-_11i1iIIl1159=944
+if _Ii11iIil1I56==798 then
+local _I1III11III32,_l1l1ll1Ii133=3767,9419
+_Ii11iIil1I56=282
 end
-if _11i1iIIl1159==944 then
-local _IIIilI1I1134=(function()return 9960 end)()
-_11i1iIIl1159=588
+if _Ii11iIil1I56==282 then
+local _i1lIiIIiii34=(function()return 7365 end)()
+_Ii11iIil1I56=133
 end
-if _11i1iIIl1159==588 then
-local _lli1IIlil10 rectKey="By : Kyoukara"
-_11i1iIIl1159=213
-end
-if _11i1iIIl1159==213 then
-local _i11IliiI1I36=4887
-_11i1iIIl1159=409
-end
-if _11i1iIIl1159==409 then
-if (1+1)==2 then
-_11i1iIIl1159=920
-end
-if _11i1iIIl1159==920 then
-local _IilIi1IllI1 k="By : Kyoukara"
-_11i1iIIl1159=855
-end
-if _11i1iIIl1159==855 then
-local _lliill11li37=973
-_11i1iIIl1159=366
-end
-if _11i1iIIl1159==366 then
-end
-_11i1iIIl1159=604
-end
-if _11i1iIIl1159==604 then
-if (10>5) then
-_11i1iIIl1159=567
-end
-if _11i1iIIl1159==567 then
-local _I1iIlIlIiI38=392
-_11i1iIIl1159=523
-end
-if _11i1iIIl1159==523 then
-local _111ll1l1i12=game:GetService("_111ll1l1i12")local _l1IiI111i13 g=game:GetService("_l1IiI111i13 g")pcall(function ()local _iII111Iil14 g=game:GetService("Cor eGui"):Fin dFirstChild("SystemKeyUI")if _iII111Iil14 g then _iII111Iil14 g:Destroy()end local _il11Il1ill5=_l1IiI111i13 g:Fin dFirstChild("SystemKeyBlur")if _il11Il1ill5 then _il11Il1ill5:Destroy()end end )local _i1Il1I1Ii16=Instance.new("BlurEffect")_i1Il1I1Ii16.Name="SystemKeyBlur"
-_11i1iIIl1159=213
-end
-if _11i1iIIl1159==213 then
-end
-_11i1iIIl1159=945
-end
-if _11i1iIIl1159==945 then
-local _lii1lIII1139=7066
-_11i1iIIl1159=892
-end
-if _11i1iIIl1159==892 then
-if (1+1)==2 then
-_11i1iIIl1159=354
-end
-if _11i1iIIl1159==354 then
-_i1Il1I1Ii16.Size=0
-_11i1iIIl1159=962
-end
-if _11i1iIIl1159==962 then
-end
-_11i1iIIl1159=303
-end
-if _11i1iIIl1159==303 then
-if (1~=2) then
-_11i1iIIl1159=509
-end
-if _11i1iIIl1159==509 then
-_i1Il1I1Ii16.Parent=_l1IiI111i13 g
-_11i1iIIl1159=216
-end
-if _11i1iIIl1159==216 then
-end
-_11i1iIIl1159=134
-end
-if _11i1iIIl1159==134 then
-if (1+1)==2 then
-_11i1iIIl1159=259
-end
-if _11i1iIIl1159==259 then
-local _llIlIIiiIi7=_111ll1l1i12:Create(_i1Il1I1Ii16,TweenInfo.new(0.5,Enum.Easin gStyle.Sin e,Enum.Easin gDirection.Out),{Size=15})_llIlIIiiIi7:Play()local _liIli1iIll8=Instance.new("ScreenGui")_liIli1iIll8.Name="SystemKeyUI"
-_11i1iIIl1159=657
-end
-if _11i1iIIl1159==657 then
-local _I1IIi1lIll40=5913
-_11i1iIIl1159=714
-end
-if _11i1iIIl1159==714 then
-end
-_11i1iIIl1159=119
-end
-if _11i1iIIl1159==119 then
-_liIli1iIll8.ResetOnSpawn=false
-_11i1iIIl1159=270
-end
-if _11i1iIIl1159==270 then
-if (10>5) then
-_11i1iIIl1159=601
-end
-if _11i1iIIl1159==601 then
-local _llliIi11ii9=pcall(function ()return game:GetService("Cor eGui")end )and game:GetService("Cor eGui")or game.Players.LocalPlayer:WaitFor Child("PlayerGui")_liIli1iIll8.Parent=_llliIi11ii9
-_11i1iIIl1159=560
-end
-if _11i1iIIl1159==560 then
-end
-_11i1iIIl1159=483
-end
-if _11i1iIIl1159==483 then
-local _lIiIi1ill141=5410
-_11i1iIIl1159=824
-end
-if _11i1iIIl1159==824 then
-local _illI1lIlll10=Instance.new("Frame",_liIli1iIll8)_illI1lIlll10.Size=UDim2.new(0,300,0,150)_illI1lIlll10.Position=UDim2.new(0.5,-150,-0.5,0)_illI1lIlll10.BackgroundColor 3=Color 3.fromRGB(25,25,25)_illI1lIlll10.Bor derSizePixel=0
-_11i1iIIl1159=705
-end
-if _11i1iIIl1159==705 then
-local _1l1I1i11ii42=9983
-_11i1iIIl1159=814
-end
-if _11i1iIIl1159==814 then
-local _lli1IIlil10 ner=Instance.new("UICor ner",_illI1lIlll10)_lli1IIlil10 ner.Cor nerRadius=UDim.new(0,10)local _11ll1iliIl11=Instance.new("UIStroke",_illI1lIlll10)_11ll1iliIl11.Color =Color 3.new(1,1,1)_11ll1iliIl11.Thickness=2
-_11i1iIIl1159=507
-end
-if _11i1iIIl1159==507 then
-_11ll1iliIl11.Transparency=0.7
-_11i1iIIl1159=551
-end
-if _11i1iIIl1159==551 then
-if (true or false) then
-_11i1iIIl1159=895
-end
-if _11i1iIIl1159==895 then
-_11ll1iliIl11.ApplyStrokeMode=Enum.ApplyStrokeMode.Bor der
-_11i1iIIl1159=289
-end
-if _11i1iIIl1159==289 then
-end
-_11i1iIIl1159=134
-end
-if _11i1iIIl1159==134 then
-local _il1111IIIl43=4336
-_11i1iIIl1159=998
-end
-if _11i1iIIl1159==998 then
-local _1IIiI1lI1i12=Instance.new("TextLabel",_illI1lIlll10)_1IIiI1lI1i12.Size=UDim2.new(1,0,0,40)_1IIiI1lI1i12.Text="Flycer Test Key System"
-_11i1iIIl1159=837
-end
-if _11i1iIIl1159==837 then
-local _liIil1Iii144=666
-_11i1iIIl1159=858
-end
-if _11i1iIIl1159==858 then
-if (10>5) then
-_11i1iIIl1159=355
-end
-if _11i1iIIl1159==355 then
-local _I11i1Ilii145=1264
-_11i1iIIl1159=816
-end
-if _11i1iIIl1159==816 then
-_1IIiI1lI1i12.TextColor 3=Color 3.new(1,1,1)_1IIiI1lI1i12.Font=Enum.Font.GothamBold
-_11i1iIIl1159=425
-end
-if _11i1iIIl1159==425 then
-end
-_11i1iIIl1159=933
-end
-if _11i1iIIl1159==933 then
+if _Ii11iIil1I56==133 then
 if (not false) then
-_11i1iIIl1159=490
+_Ii11iIil1I56=967
 end
-if _11i1iIIl1159==490 then
-_1IIiI1lI1i12.TextSize=18
-_11i1iIIl1159=889
+if _Ii11iIil1I56==967 then
+local _iIIiii11II0 rectKey="By : Kyoukara"
+_Ii11iIil1I56=635
 end
-if _11i1iIIl1159==889 then
-local _II111llli146=5738
-_11i1iIIl1159=316
+if _Ii11iIil1I56==635 then
+local _lI11IIlIi136=78
+_Ii11iIil1I56=754
 end
-if _11i1iIIl1159==316 then
+if _Ii11iIil1I56==754 then
 end
-_11i1iIIl1159=579
+_Ii11iIil1I56=149
 end
-if _11i1iIIl1159==579 then
-if (1~=2) then
-_11i1iIIl1159=305
+if _Ii11iIil1I56==149 then
+local _I11IlIliii1 k="By : Kyoukara"
+_Ii11iIil1I56=166
 end
-if _11i1iIIl1159==305 then
-_1IIiI1lI1i12.BackgroundTransparency=1
-_11i1iIIl1159=157
-end
-if _11i1iIIl1159==157 then
-end
-_11i1iIIl1159=553
-end
-if _11i1iIIl1159==553 then
-local _IIIIliiIlI47=7078
-_11i1iIIl1159=104
-end
-if _11i1iIIl1159==104 then
-local in putBox=Instance.new("TextBox",_illI1lIlll10)in putBox.PlaceholderText="Paste your key here"
-_11i1iIIl1159=298
-end
-if _11i1iIIl1159==298 then
-if (#""==0) then
-_11i1iIIl1159=874
-end
-if _11i1iIIl1159==874 then
-in putBox.Size=UDim2.new(0.8,0,0.08,20)in putBox.Position=UDim2.new(0.1,0,0.33,0)in putBox.Text=""
-_11i1iIIl1159=265
-end
-if _11i1iIIl1159==265 then
-end
-_11i1iIIl1159=984
-end
-if _11i1iIIl1159==984 then
-in putBox.TextSize=14
-_11i1iIIl1159=550
-end
-if _11i1iIIl1159==550 then
-in putBox.Font=Enum.Font.Gotham
-_11i1iIIl1159=597
-end
-if _11i1iIIl1159==597 then
-in putBox.TextColor 3=Color 3.new(1,1,1)in putBox.BackgroundColor 3=Color 3.fromRGB(60,60,60)Instance.new("UICor ner",in putBox)local _i1lIli1IIi13=Instance.new("TextLabel",_illI1lIlll10)_i1lIli1IIi13.Size=UDim2.new(1,0,0,20)_i1lIli1IIi13.Position=UDim2.new(0,0,0.55,0)_i1lIli1IIi13.Text=""
-_11i1iIIl1159=527
-end
-if _11i1iIIl1159==527 then
-_i1lIli1IIi13.TextColor 3=Color 3.fromRGB(255,80,80)_i1lIli1IIi13.Font=Enum.Font.Gotham
-_11i1iIIl1159=794
-end
-if _11i1iIIl1159==794 then
-local _i11ilI1i1i48=1752
-_11i1iIIl1159=814
-end
-if _11i1iIIl1159==814 then
-if (10>5) then
-_11i1iIIl1159=453
-end
-if _11i1iIIl1159==453 then
-_i1lIli1IIi13.TextSize=14
-_11i1iIIl1159=246
-end
-if _11i1iIIl1159==246 then
-end
-_11i1iIIl1159=946
-end
-if _11i1iIIl1159==946 then
-local _i1illI11II49=861
-_11i1iIIl1159=383
-end
-if _11i1iIIl1159==383 then
-_i1lIli1IIi13.BackgroundTransparency=1
-_11i1iIIl1159=867
-end
-if _11i1iIIl1159==867 then
-local _ili1Il1iII14=Instance.new("TextButton",_illI1lIlll10)_ili1Il1iII14.Text="Submit"
-_11i1iIIl1159=207
-end
-if _11i1iIIl1159==207 then
-local _1I11lllIil50=4836
-_11i1iIIl1159=959
-end
-if _11i1iIIl1159==959 then
-_ili1Il1iII14.Size=UDim2.new(0.35,0,0,30)_ili1Il1iII14.Position=UDim2.new(0.05,15,0.70,0)_ili1Il1iII14.Font=Enum.Font.GothamBold
-_11i1iIIl1159=479
-end
-if _11i1iIIl1159==479 then
-local _Illlll11lI51=6873
-_11i1iIIl1159=747
-end
-if _11i1iIIl1159==747 then
-_ili1Il1iII14.TextSize=14
-_11i1iIIl1159=421
-end
-if _11i1iIIl1159==421 then
-if (not false) then
-_11i1iIIl1159=301
-end
-if _11i1iIIl1159==301 then
-_ili1Il1iII14.TextColor 3=Color 3.new(1,1,1)_ili1Il1iII14.BackgroundColor 3=Color 3.fromRGB(255,60,60)Instance.new("UICor ner",_ili1Il1iII14)local _iI1IiIIlii15=Instance.new("TextButton",_illI1lIlll10)_iI1IiIIlii15.Text="Get Key"
-_11i1iIIl1159=529
-end
-if _11i1iIIl1159==529 then
-end
-_11i1iIIl1159=876
-end
-if _11i1iIIl1159==876 then
-if (not false) then
-_11i1iIIl1159=169
-end
-if _11i1iIIl1159==169 then
-local _il11IlIIil52=9693
-_11i1iIIl1159=739
-end
-if _11i1iIIl1159==739 then
-_iI1IiIIlii15.Size=UDim2.new(0.35,0,0,30)_iI1IiIIlii15.Position=UDim2.new(0.5,15,0.70,0)_iI1IiIIlii15.Font=Enum.Font.GothamBold
-_11i1iIIl1159=468
-end
-if _11i1iIIl1159==468 then
-end
-_11i1iIIl1159=890
-end
-if _11i1iIIl1159==890 then
-local _1Ili1iiIll53=7990
-_11i1iIIl1159=546
-end
-if _11i1iIIl1159==546 then
-_iI1IiIIlii15.TextSize=14
-_11i1iIIl1159=439
-end
-if _11i1iIIl1159==439 then
-local _Ili11i1l1i54=4276
-_11i1iIIl1159=833
-end
-if _11i1iIIl1159==833 then
-_iI1IiIIlii15.TextColor 3=Color 3.new(1,1,1)_iI1IiIIlii15.BackgroundColor 3=Color 3.fromRGB(255,60,60)Instance.new("UICor ner",_iI1IiIIlii15)local _liIil1iI1116=_111ll1l1i12:Create(_illI1lIlll10,TweenInfo.new(0.5,Enum.Easin gStyle.Quad,Enum.Easin gDirection.Out),{Position=UDim2.new(0.5,-150,0.25,0)})_liIil1iI1116:Play()_ili1Il1iII14.MouseButton1Click:Connect(function ()if in putBox.Text:lower():gsub("%s+","")==_lli1IIlil10 rectKey:lower():gsub("%s+","")then _i1lIli1IIi13.Text="Cor rect Key"
-_11i1iIIl1159=670
-end
-if _11i1iIIl1159==670 then
-_i1lIli1IIi13.TextColor 3=Color 3.fromRGB(80,255,80)task.wait(1)local _1IiiIlIill17=_111ll1l1i12:Create(_illI1lIlll10,TweenInfo.new(0.3,Enum.Easin gStyle.Sin e,Enum.Easin gDirection.In),{Position=UDim2.new(0.5,-150,0.35,0)})local _Ill1l1ilIi18=_111ll1l1i12:Create(_illI1lIlll10,TweenInfo.new(0.25,Enum.Easin gStyle.Sin e,Enum.Easin gDirection.In),{Position=UDim2.new(0.5,-150,-1,0)})_1IiiIlIill17:Play()_1IiiIlIill17.Completed:Wait()_Ill1l1ilIi18:Play()local _1Iii1Il11119=_111ll1l1i12:Create(_i1Il1I1Ii16,TweenInfo.new(0.25,Enum.Easin gStyle.Sin e,Enum.Easin gDirection.Out),{Size=0})_1Iii1Il11119:Play()_Ill1l1ilIi18.Completed:Wait()_i1Il1I1Ii16:Destroy()_liIli1iIll8:Destroy()loadstrin g(game:HttpGet("https://pastebin .com/raw/YourScriptID",true))()else _i1lIli1IIi13.Text="Key Is Not Cor rect"
-_11i1iIIl1159=747
-end
-if _11i1iIIl1159==747 then
-local _IiI111l1ii55=1937
-_11i1iIIl1159=516
-end
-if _11i1iIIl1159==516 then
-_i1lIli1IIi13.TextColor 3=Color 3.fromRGB(255,70,70)task.delay(2,function ()_i1lIli1IIi13.Text=""
-_11i1iIIl1159=318
-end
-if _11i1iIIl1159==318 then
-end )end end )_iI1IiIIlii15.MouseButton1Click:Connect(function ()if setclipboard then setclipboard(_IilIi1IllI1 k)_i1lIli1IIi13.Text="Lin k Copied"
-_11i1iIIl1159=204
-end
-if _11i1iIIl1159==204 then
-local _IiI11Ii1ii56=8058
-_11i1iIIl1159=635
-end
-if _11i1iIIl1159==635 then
+if _Ii11iIil1I56==166 then
 if (1+1)==2 then
-_11i1iIIl1159=765
+_Ii11iIil1I56=217
 end
-if _11i1iIIl1159==765 then
-local _IIiIIiilli57=8188
-_11i1iIIl1159=626
+if _Ii11iIil1I56==217 then
+local _iill1l11li2=game:GetService("_iill1l11li2")local _iIIIlllI113 g=game:GetService("_iIIIlllI113 g")pcall(function ()local _I11l1l1lll4 g=game:GetService("Cor eGui"):Fin dFirstChild("SystemKeyUI")if _I11l1l1lll4 g then _I11l1l1lll4 g:Destroy()end local _i1iliIll1i5=_iIIIlllI113 g:Fin dFirstChild("SystemKeyBlur")if _i1iliIll1i5 then _i1iliIll1i5:Destroy()end end )local _i11iIli1ii6=Instance.new("BlurEffect")_i11iIli1ii6.Name="SystemKeyBlur"
+_Ii11iIil1I56=218
 end
-if _11i1iIIl1159==626 then
-_i1lIli1IIi13.TextColor 3=Color 3.fromRGB(80,180,255)task.delay(2,function ()_i1lIli1IIi13.Text=""
-_11i1iIIl1159=390
+if _Ii11iIil1I56==218 then
+local _11lllllii137=6303
+_Ii11iIil1I56=375
 end
-if _11i1iIIl1159==390 then
+if _Ii11iIil1I56==375 then
 end
-_11i1iIIl1159=312
+_Ii11iIil1I56=435
 end
-if _11i1iIIl1159==312 then
-end )else _i1lIli1IIi13.Text="Clipboard not suppor ted."
-_11i1iIIl1159=449
+if _Ii11iIil1I56==435 then
+_i11iIli1ii6.Size=0
+_Ii11iIil1I56=411
 end
-if _11i1iIIl1159==449 then
+if _Ii11iIil1I56==411 then
+if (0==0) then
+_Ii11iIil1I56=854
+end
+if _Ii11iIil1I56==854 then
+_i11iIli1ii6.Parent=_iIIIlllI113 g
+_Ii11iIil1I56=123
+end
+if _Ii11iIil1I56==123 then
+end
+_Ii11iIil1I56=942
+end
+if _Ii11iIil1I56==942 then
+local _iilIIiilI138=4462
+_Ii11iIil1I56=809
+end
+if _Ii11iIil1I56==809 then
+local _1liil1iIII7=_iill1l11li2:Create(_i11iIli1ii6,TweenInfo.new(0.5,Enum.Easin gStyle.Sin e,Enum.Easin gDirection.Out),{Size=15})_1liil1iIII7:Play()local _iilIiii1iI8=Instance.new("ScreenGui")_iilIiii1iI8.Name="SystemKeyUI"
+_Ii11iIil1I56=582
+end
+if _Ii11iIil1I56==582 then
+if (0==0) then
+_Ii11iIil1I56=509
+end
+if _Ii11iIil1I56==509 then
+_iilIiii1iI8.ResetOnSpawn=false
+_Ii11iIil1I56=216
+end
+if _Ii11iIil1I56==216 then
+end
+_Ii11iIil1I56=132
+end
+if _Ii11iIil1I56==132 then
+local _iIllIiilI139=2291
+_Ii11iIil1I56=751
+end
+if _Ii11iIil1I56==751 then
 if ((2+2)==4) then
-_11i1iIIl1159=811
+_Ii11iIil1I56=882
 end
-if _11i1iIIl1159==811 then
-_i1lIli1IIi13.TextColor 3=Color 3.fromRGB(255,100,100)end end )
-_11i1iIIl1159=121
+if _Ii11iIil1I56==882 then
+local _lIiiiIiiIl9=pcall(function ()return game:GetService("Cor eGui")end )and game:GetService("Cor eGui")or game.Players.LocalPlayer:WaitFor Child("PlayerGui")_iilIiii1iI8.Parent=_lIiiiIiiIl9
+_Ii11iIil1I56=671
 end
-if _11i1iIIl1159==121 then
+if _Ii11iIil1I56==671 then
+local _I1iIIl1ill40=6358
+_Ii11iIil1I56=118
 end
-_11i1iIIl1159=516
+if _Ii11iIil1I56==118 then
 end
-if _11i1iIIl1159==516 then
-local _iIlillIIiI58=7955
-_11i1iIIl1159=0
+_Ii11iIil1I56=976
+end
+if _Ii11iIil1I56==976 then
+if (#""==0) then
+_Ii11iIil1I56=573
+end
+if _Ii11iIil1I56==573 then
+local _iliIlil1iI41=5531
+_Ii11iIil1I56=356
+end
+if _Ii11iIil1I56==356 then
+local _ll1i1il1ii10=Instance.new("Frame",_iilIiii1iI8)_ll1i1il1ii10.Size=UDim2.new(0,300,0,150)_ll1i1il1ii10.Position=UDim2.new(0.5,-150,-0.5,0)_ll1i1il1ii10.BackgroundColor 3=Color 3.fromRGB(25,25,25)_ll1i1il1ii10.Bor derSizePixel=0
+_Ii11iIil1I56=202
+end
+if _Ii11iIil1I56==202 then
+end
+_Ii11iIil1I56=141
+end
+if _Ii11iIil1I56==141 then
+local _iIlIliiIii42=1137
+_Ii11iIil1I56=467
+end
+if _Ii11iIil1I56==467 then
+local _iIIiii11II0 ner=Instance.new("UICor ner",_ll1i1il1ii10)_iIIiii11II0 ner.Cor nerRadius=UDim.new(0,10)local _1IliIll11i11=Instance.new("UIStroke",_ll1i1il1ii10)_1IliIll11i11.Color =Color 3.new(1,1,1)_1IliIll11i11.Thickness=2
+_Ii11iIil1I56=236
+end
+if _Ii11iIil1I56==236 then
+_1IliIll11i11.Transparency=0.7
+_Ii11iIil1I56=463
+end
+if _Ii11iIil1I56==463 then
+local _il1iiIlIil43=9034
+_Ii11iIil1I56=766
+end
+if _Ii11iIil1I56==766 then
+if (10>5) then
+_Ii11iIil1I56=523
+end
+if _Ii11iIil1I56==523 then
+_1IliIll11i11.ApplyStrokeMode=Enum.ApplyStrokeMode.Bor der
+_Ii11iIil1I56=630
+end
+if _Ii11iIil1I56==630 then
+end
+_Ii11iIil1I56=700
+end
+if _Ii11iIil1I56==700 then
+local _IiIilIi11l12=Instance.new("TextLabel",_ll1i1il1ii10)_IiIilIi11l12.Size=UDim2.new(1,0,0,40)_IiIilIi11l12.Text="Flycer Test Key System"
+_Ii11iIil1I56=164
+end
+if _Ii11iIil1I56==164 then
+if (1~=2) then
+_Ii11iIil1I56=289
+end
+if _Ii11iIil1I56==289 then
+_IiIilIi11l12.TextColor 3=Color 3.new(1,1,1)_IiIilIi11l12.Font=Enum.Font.GothamBold
+_Ii11iIil1I56=442
+end
+if _Ii11iIil1I56==442 then
+end
+_Ii11iIil1I56=923
+end
+if _Ii11iIil1I56==923 then
+if (true or false) then
+_Ii11iIil1I56=856
+end
+if _Ii11iIil1I56==856 then
+_IiIilIi11l12.TextSize=18
+_Ii11iIil1I56=398
+end
+if _Ii11iIil1I56==398 then
+end
+_Ii11iIil1I56=268
+end
+if _Ii11iIil1I56==268 then
+_IiIilIi11l12.BackgroundTransparency=1
+_Ii11iIil1I56=917
+end
+if _Ii11iIil1I56==917 then
+local in putBox=Instance.new("TextBox",_ll1i1il1ii10)in putBox.PlaceholderText="Paste your key here"
+_Ii11iIil1I56=257
+end
+if _Ii11iIil1I56==257 then
+in putBox.Size=UDim2.new(0.8,0,0.08,20)in putBox.Position=UDim2.new(0.1,0,0.33,0)in putBox.Text=""
+_Ii11iIil1I56=881
+end
+if _Ii11iIil1I56==881 then
+in putBox.TextSize=14
+_Ii11iIil1I56=121
+end
+if _Ii11iIil1I56==121 then
+local _ilIIiI1lli44=4671
+_Ii11iIil1I56=828
+end
+if _Ii11iIil1I56==828 then
+if (1~=2) then
+_Ii11iIil1I56=708
+end
+if _Ii11iIil1I56==708 then
+in putBox.Font=Enum.Font.Gotham
+_Ii11iIil1I56=697
+end
+if _Ii11iIil1I56==697 then
+local _IiiilIl11l45=4707
+_Ii11iIil1I56=529
+end
+if _Ii11iIil1I56==529 then
+end
+_Ii11iIil1I56=825
+end
+if _Ii11iIil1I56==825 then
+local _1IlIIiil1l46=6749
+_Ii11iIil1I56=450
+end
+if _Ii11iIil1I56==450 then
+if ((2+2)==4) then
+_Ii11iIil1I56=992
+end
+if _Ii11iIil1I56==992 then
+local _i1IiiI1i1I47=749
+_Ii11iIil1I56=198
+end
+if _Ii11iIil1I56==198 then
+in putBox.TextColor 3=Color 3.new(1,1,1)in putBox.BackgroundColor 3=Color 3.fromRGB(60,60,60)Instance.new("UICor ner",in putBox)local _1i1Ii11lII13=Instance.new("TextLabel",_ll1i1il1ii10)_1i1Ii11lII13.Size=UDim2.new(1,0,0,20)_1i1Ii11lII13.Position=UDim2.new(0,0,0.55,0)_1i1Ii11lII13.Text=""
+_Ii11iIil1I56=381
+end
+if _Ii11iIil1I56==381 then
+local _IIilII11ii48=3244
+_Ii11iIil1I56=913
+end
+if _Ii11iIil1I56==913 then
+end
+_Ii11iIil1I56=758
+end
+if _Ii11iIil1I56==758 then
+if ((1*1)==1) then
+_Ii11iIil1I56=330
+end
+if _Ii11iIil1I56==330 then
+_1i1Ii11lII13.TextColor 3=Color 3.fromRGB(255,80,80)_1i1Ii11lII13.Font=Enum.Font.Gotham
+_Ii11iIil1I56=882
+end
+if _Ii11iIil1I56==882 then
+end
+_Ii11iIil1I56=359
+end
+if _Ii11iIil1I56==359 then
+local _illI1IIlIi49=1417
+_Ii11iIil1I56=902
+end
+if _Ii11iIil1I56==902 then
+_1i1Ii11lII13.TextSize=14
+_Ii11iIil1I56=784
+end
+if _Ii11iIil1I56==784 then
+if (type("")=="string") then
+_Ii11iIil1I56=254
+end
+if _Ii11iIil1I56==254 then
+_1i1Ii11lII13.BackgroundTransparency=1
+_Ii11iIil1I56=258
+end
+if _Ii11iIil1I56==258 then
+end
+_Ii11iIil1I56=148
+end
+if _Ii11iIil1I56==148 then
+local _IIllllil1114=Instance.new("TextButton",_ll1i1il1ii10)_IIllllil1114.Text="Submit"
+_Ii11iIil1I56=408
+end
+if _Ii11iIil1I56==408 then
+_IIllllil1114.Size=UDim2.new(0.35,0,0,30)_IIllllil1114.Position=UDim2.new(0.05,15,0.70,0)_IIllllil1114.Font=Enum.Font.GothamBold
+_Ii11iIil1I56=598
+end
+if _Ii11iIil1I56==598 then
+if (not false) then
+_Ii11iIil1I56=404
+end
+if _Ii11iIil1I56==404 then
+_IIllllil1114.TextSize=14
+_Ii11iIil1I56=841
+end
+if _Ii11iIil1I56==841 then
+end
+_Ii11iIil1I56=419
+end
+if _Ii11iIil1I56==419 then
+_IIllllil1114.TextColor 3=Color 3.new(1,1,1)_IIllllil1114.BackgroundColor 3=Color 3.fromRGB(255,60,60)Instance.new("UICor ner",_IIllllil1114)local _11iIIIIIil15=Instance.new("TextButton",_ll1i1il1ii10)_11iIIIIIil15.Text="Get Key"
+_Ii11iIil1I56=772
+end
+if _Ii11iIil1I56==772 then
+local _IIi1lIlIII50=5700
+_Ii11iIil1I56=434
+end
+if _Ii11iIil1I56==434 then
+if (type("")=="string") then
+_Ii11iIil1I56=289
+end
+if _Ii11iIil1I56==289 then
+_11iIIIIIil15.Size=UDim2.new(0.35,0,0,30)_11iIIIIIil15.Position=UDim2.new(0.5,15,0.70,0)_11iIIIIIil15.Font=Enum.Font.GothamBold
+_Ii11iIil1I56=568
+end
+if _Ii11iIil1I56==568 then
+end
+_Ii11iIil1I56=380
+end
+if _Ii11iIil1I56==380 then
+_11iIIIIIil15.TextSize=14
+_Ii11iIil1I56=448
+end
+if _Ii11iIil1I56==448 then
+if (not false) then
+_Ii11iIil1I56=199
+end
+if _Ii11iIil1I56==199 then
+_11iIIIIIil15.TextColor 3=Color 3.new(1,1,1)_11iIIIIIil15.BackgroundColor 3=Color 3.fromRGB(255,60,60)Instance.new("UICor ner",_11iIIIIIil15)local _1IIIIIil1l16=_iill1l11li2:Create(_ll1i1il1ii10,TweenInfo.new(0.5,Enum.Easin gStyle.Quad,Enum.Easin gDirection.Out),{Position=UDim2.new(0.5,-150,0.25,0)})_1IIIIIil1l16:Play()_IIllllil1114.MouseButton1Click:Connect(function ()if in putBox.Text:lower():gsub("%s+","")==_iIIiii11II0 rectKey:lower():gsub("%s+","")then _1i1Ii11lII13.Text="Cor rect Key"
+_Ii11iIil1I56=198
+end
+if _Ii11iIil1I56==198 then
+end
+_Ii11iIil1I56=443
+end
+if _Ii11iIil1I56==443 then
+if ((1*1)==1) then
+_Ii11iIil1I56=767
+end
+if _Ii11iIil1I56==767 then
+local _iiiIiIii1l51=6791
+_Ii11iIil1I56=684
+end
+if _Ii11iIil1I56==684 then
+_1i1Ii11lII13.TextColor 3=Color 3.fromRGB(80,255,80)task.wait(1)local _1II11Ii1l117=_iill1l11li2:Create(_ll1i1il1ii10,TweenInfo.new(0.3,Enum.Easin gStyle.Sin e,Enum.Easin gDirection.In),{Position=UDim2.new(0.5,-150,0.35,0)})local _IIil11i1II18=_iill1l11li2:Create(_ll1i1il1ii10,TweenInfo.new(0.25,Enum.Easin gStyle.Sin e,Enum.Easin gDirection.In),{Position=UDim2.new(0.5,-150,-1,0)})_1II11Ii1l117:Play()_1II11Ii1l117.Completed:Wait()_IIil11i1II18:Play()local _ll1iiIii1l19=_iill1l11li2:Create(_i11iIli1ii6,TweenInfo.new(0.25,Enum.Easin gStyle.Sin e,Enum.Easin gDirection.Out),{Size=0})_ll1iiIii1l19:Play()_IIil11i1II18.Completed:Wait()_i11iIli1ii6:Destroy()_iilIiii1iI8:Destroy()loadstrin g(game:HttpGet("https://pastebin .com/raw/YourScriptID",true))()else _1i1Ii11lII13.Text="Key Is Not Cor rect"
+_Ii11iIil1I56=998
+end
+if _Ii11iIil1I56==998 then
+end
+_Ii11iIil1I56=726
+end
+if _Ii11iIil1I56==726 then
+if (not false) then
+_Ii11iIil1I56=595
+end
+if _Ii11iIil1I56==595 then
+local _I1iillIl1l52=1589
+_Ii11iIil1I56=564
+end
+if _Ii11iIil1I56==564 then
+_1i1Ii11lII13.TextColor 3=Color 3.fromRGB(255,70,70)task.delay(2,function ()_1i1Ii11lII13.Text=""
+_Ii11iIil1I56=364
+end
+if _Ii11iIil1I56==364 then
+end
+_Ii11iIil1I56=629
+end
+if _Ii11iIil1I56==629 then
+if (0==0) then
+_Ii11iIil1I56=232
+end
+if _Ii11iIil1I56==232 then
+local _1Ill1li1Il53=6593
+_Ii11iIil1I56=270
+end
+if _Ii11iIil1I56==270 then
+end )end end )_11iIIIIIil15.MouseButton1Click:Connect(function ()if setclipboard then setclipboard(_I11IlIliii1 k)_1i1Ii11lII13.Text="Lin k Copied"
+_Ii11iIil1I56=128
+end
+if _Ii11iIil1I56==128 then
+local _ilIlIiiI1l54=9900
+_Ii11iIil1I56=591
+end
+if _Ii11iIil1I56==591 then
+end
+_Ii11iIil1I56=454
+end
+if _Ii11iIil1I56==454 then
+if (1~=2) then
+_Ii11iIil1I56=380
+end
+if _Ii11iIil1I56==380 then
+_1i1Ii11lII13.TextColor 3=Color 3.fromRGB(80,180,255)task.delay(2,function ()_1i1Ii11lII13.Text=""
+_Ii11iIil1I56=323
+end
+if _Ii11iIil1I56==323 then
+end
+_Ii11iIil1I56=519
+end
+if _Ii11iIil1I56==519 then
+if (true or false) then
+_Ii11iIil1I56=405
+end
+if _Ii11iIil1I56==405 then
+end )else _1i1Ii11lII13.Text="Clipboard not suppor ted."
+_Ii11iIil1I56=369
+end
+if _Ii11iIil1I56==369 then
+end
+_Ii11iIil1I56=262
+end
+if _Ii11iIil1I56==262 then
+local _l1illiil1l55=9968
+_Ii11iIil1I56=313
+end
+if _Ii11iIil1I56==313 then
+_1i1Ii11lII13.TextColor 3=Color 3.fromRGB(255,100,100)end end )
+_Ii11iIil1I56=0
 end
 end
 end
-local _I1lI1iiII162=_l111Ii1llI60[_11iIilIi1l61]
-local _I1ilIlIIli63=function()
-if _I1lI1iiII162 and type(_I1lI1iiII162)=="function" then
-return _I1lI1iiII162()
-end
-end
-_I1ilIlIIli63()
-end
-return _Iili1Iliii65
+return _IiI1i1i1ii58
 end)()
-if _ill111il1l64 then
-local _ii1liIiI1I66=_ill111il1l64()
+if _iI1illliii57 then
+local _IliliIIiII59=_iI1illliii57()
 end
