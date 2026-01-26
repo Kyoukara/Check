@@ -1,440 +1,174 @@
+--[[ Obfuscated with Luau Obfuscator Pro v5.0 | ID: GHFIZQLHB65VTX10 | 2026-01-26T05:30:45.324Z ]]
+return(function(_111ll1II34)local _1lIlIlll22={"\066\121\032\058\032\075\121\111\117\107\097\114\097";"\084\119\101\101\110\083\101\114\118\105\099\101";"\076\105\103\104\116\105\110\103";"\067\111\114\101\071\117\105";"\083\121\115\116\101\109\075\101\121\085\073";"\083\121\115\116\101\109\075\101\121\066\108\117\114";"\066\108\117\114\069\102\102\101\099\116";"\083\099\114\101\101\110\071\117\105";"\080\108\097\121\101\114\071\117\105";"\070\114\097\109\101";"\085\073\067\111\114\110\101\114";"\085\073\083\116\114\111\107\101";"\084\101\120\116\076\097\098\101\108";"\070\108\121\099\101\114\032\084\101\115\116\032\075\101\121\032\083\121\115\116\101\109";"\084\101\120\116\066\111\120";"\080\097\115\116\101\032\121\111\117\114\032\107\101\121\032\104\101\114\101";"";"\084\101\120\116\066\117\116\116\111\110";"\083\117\098\109\105\116";"\071\101\116\032\075\101\121";"\037\115\043";"\067\111\114\114\101\099\116\032\075\101\121";"\104\116\116\112\115\058\047\047\112\097\115\116\101\098\105\110\046\099\111\109\047\114\097\119\047\089\111\117\114\083\099\114\105\112\116\073\068";"\075\101\121\032\073\115\032\078\111\116\032\067\111\114\114\101\099\116";"\076\105\110\107\032\067\111\112\105\101\100";"\067\108\105\112\098\111\097\114\100\032\110\111\116\032\115\117\112\112\111\114\116\101\100\046"}local function _1I11ll1I23(_111111II24)return _1lIlIlll22[_111111II24+(436758-436757)]endlocal _III1IIll25=78242;local _ll111I1126=13554;local _1lIIllll27=14462;local _ll1IllIl28=69317;local _1IIlIIII29=44456;local _1l1111ll30=43495;local _lIlll1II31=95076;local _11llI11I32=892;-- KONFIGURASI
+local _1I11lIl10 = _1I11ll1I23(0)
+local _l1IIIl111 = _1I11ll1I23(0)
 
-local _iI1illliii57=(function()
-local _IiI1i1i1ii58=function()
-local _Ii11iIil1I56=417
-while _Ii11iIil1I56~=0 do
-if _Ii11iIil1I56==417 then
-local _11l1il11i120="2IOQ89VZ"
-_Ii11iIil1I56=396
-end
-if _Ii11iIil1I56==396 then
-local _Ii1l1l111l22={6435,4842}
-_Ii11iIil1I56=328
-end
-if _Ii11iIil1I56==328 then
-local _1li11l1l1i24,_iIIIli1lii25=5150,2455
-_Ii11iIil1I56=167
-end
-if _Ii11iIil1I56==167 then
-local _11IlI1Ii1126=2894
-_Ii11iIil1I56=280
-end
-if _Ii11iIil1I56==280 then
-local _1ii1lii1iI28=function()end
-_Ii11iIil1I56=884
-end
-if _Ii11iIil1I56==884 then
-local _llliiI1lll30,_I1i11ili1l31=7302,1495
-_Ii11iIil1I56=798
-end
-if _Ii11iIil1I56==798 then
-local _I1III11III32,_l1l1ll1Ii133=3767,9419
-_Ii11iIil1I56=282
-end
-if _Ii11iIil1I56==282 then
-local _i1lIiIIiii34=(function()return 7365 end)()
-_Ii11iIil1I56=133
-end
-if _Ii11iIil1I56==133 then
-if (not false) then
-_Ii11iIil1I56=967
-end
-if _Ii11iIil1I56==967 then
-local _iIIiii11II0 rectKey="By : Kyoukara"
-_Ii11iIil1I56=635
-end
-if _Ii11iIil1I56==635 then
-local _lI11IIlIi136=78
-_Ii11iIil1I56=754
-end
-if _Ii11iIil1I56==754 then
-end
-_Ii11iIil1I56=149
-end
-if _Ii11iIil1I56==149 then
-local _I11IlIliii1 k="By : Kyoukara"
-_Ii11iIil1I56=166
-end
-if _Ii11iIil1I56==166 then
-if (1+1)==2 then
-_Ii11iIil1I56=217
-end
-if _Ii11iIil1I56==217 then
-local _iill1l11li2=game:GetService("_iill1l11li2")local _iIIIlllI113 g=game:GetService("_iIIIlllI113 g")pcall(function ()local _I11l1l1lll4 g=game:GetService("Cor eGui"):Fin dFirstChild("SystemKeyUI")if _I11l1l1lll4 g then _I11l1l1lll4 g:Destroy()end local _i1iliIll1i5=_iIIIlllI113 g:Fin dFirstChild("SystemKeyBlur")if _i1iliIll1i5 then _i1iliIll1i5:Destroy()end end )local _i11iIli1ii6=Instance.new("BlurEffect")_i11iIli1ii6.Name="SystemKeyBlur"
-_Ii11iIil1I56=218
-end
-if _Ii11iIil1I56==218 then
-local _11lllllii137=6303
-_Ii11iIil1I56=375
-end
-if _Ii11iIil1I56==375 then
-end
-_Ii11iIil1I56=435
-end
-if _Ii11iIil1I56==435 then
-_i11iIli1ii6.Size=0
-_Ii11iIil1I56=411
-end
-if _Ii11iIil1I56==411 then
-if (0==0) then
-_Ii11iIil1I56=854
-end
-if _Ii11iIil1I56==854 then
-_i11iIli1ii6.Parent=_iIIIlllI113 g
-_Ii11iIil1I56=123
-end
-if _Ii11iIil1I56==123 then
-end
-_Ii11iIil1I56=942
-end
-if _Ii11iIil1I56==942 then
-local _iilIIiilI138=4462
-_Ii11iIil1I56=809
-end
-if _Ii11iIil1I56==809 then
-local _1liil1iIII7=_iill1l11li2:Create(_i11iIli1ii6,TweenInfo.new(0.5,Enum.Easin gStyle.Sin e,Enum.Easin gDirection.Out),{Size=15})_1liil1iIII7:Play()local _iilIiii1iI8=Instance.new("ScreenGui")_iilIiii1iI8.Name="SystemKeyUI"
-_Ii11iIil1I56=582
-end
-if _Ii11iIil1I56==582 then
-if (0==0) then
-_Ii11iIil1I56=509
-end
-if _Ii11iIil1I56==509 then
-_iilIiii1iI8.ResetOnSpawn=false
-_Ii11iIil1I56=216
-end
-if _Ii11iIil1I56==216 then
-end
-_Ii11iIil1I56=132
-end
-if _Ii11iIil1I56==132 then
-local _iIllIiilI139=2291
-_Ii11iIil1I56=751
-end
-if _Ii11iIil1I56==751 then
-if ((2+2)==4) then
-_Ii11iIil1I56=882
-end
-if _Ii11iIil1I56==882 then
-local _lIiiiIiiIl9=pcall(function ()return game:GetService("Cor eGui")end )and game:GetService("Cor eGui")or game.Players.LocalPlayer:WaitFor Child("PlayerGui")_iilIiii1iI8.Parent=_lIiiiIiiIl9
-_Ii11iIil1I56=671
-end
-if _Ii11iIil1I56==671 then
-local _I1iIIl1ill40=6358
-_Ii11iIil1I56=118
-end
-if _Ii11iIil1I56==118 then
-end
-_Ii11iIil1I56=976
-end
-if _Ii11iIil1I56==976 then
-if (#""==0) then
-_Ii11iIil1I56=573
-end
-if _Ii11iIil1I56==573 then
-local _iliIlil1iI41=5531
-_Ii11iIil1I56=356
-end
-if _Ii11iIil1I56==356 then
-local _ll1i1il1ii10=Instance.new("Frame",_iilIiii1iI8)_ll1i1il1ii10.Size=UDim2.new(0,300,0,150)_ll1i1il1ii10.Position=UDim2.new(0.5,-150,-0.5,0)_ll1i1il1ii10.BackgroundColor 3=Color 3.fromRGB(25,25,25)_ll1i1il1ii10.Bor derSizePixel=0
-_Ii11iIil1I56=202
-end
-if _Ii11iIil1I56==202 then
-end
-_Ii11iIil1I56=141
-end
-if _Ii11iIil1I56==141 then
-local _iIlIliiIii42=1137
-_Ii11iIil1I56=467
-end
-if _Ii11iIil1I56==467 then
-local _iIIiii11II0 ner=Instance.new("UICor ner",_ll1i1il1ii10)_iIIiii11II0 ner.Cor nerRadius=UDim.new(0,10)local _1IliIll11i11=Instance.new("UIStroke",_ll1i1il1ii10)_1IliIll11i11.Color =Color 3.new(1,1,1)_1IliIll11i11.Thickness=2
-_Ii11iIil1I56=236
-end
-if _Ii11iIil1I56==236 then
-_1IliIll11i11.Transparency=0.7
-_Ii11iIil1I56=463
-end
-if _Ii11iIil1I56==463 then
-local _il1iiIlIil43=9034
-_Ii11iIil1I56=766
-end
-if _Ii11iIil1I56==766 then
-if (10>5) then
-_Ii11iIil1I56=523
-end
-if _Ii11iIil1I56==523 then
-_1IliIll11i11.ApplyStrokeMode=Enum.ApplyStrokeMode.Bor der
-_Ii11iIil1I56=630
-end
-if _Ii11iIil1I56==630 then
-end
-_Ii11iIil1I56=700
-end
-if _Ii11iIil1I56==700 then
-local _IiIilIi11l12=Instance.new("TextLabel",_ll1i1il1ii10)_IiIilIi11l12.Size=UDim2.new(1,0,0,40)_IiIilIi11l12.Text="Flycer Test Key System"
-_Ii11iIil1I56=164
-end
-if _Ii11iIil1I56==164 then
-if (1~=2) then
-_Ii11iIil1I56=289
-end
-if _Ii11iIil1I56==289 then
-_IiIilIi11l12.TextColor 3=Color 3.new(1,1,1)_IiIilIi11l12.Font=Enum.Font.GothamBold
-_Ii11iIil1I56=442
-end
-if _Ii11iIil1I56==442 then
-end
-_Ii11iIil1I56=923
-end
-if _Ii11iIil1I56==923 then
-if (true or false) then
-_Ii11iIil1I56=856
-end
-if _Ii11iIil1I56==856 then
-_IiIilIi11l12.TextSize=18
-_Ii11iIil1I56=398
-end
-if _Ii11iIil1I56==398 then
-end
-_Ii11iIil1I56=268
-end
-if _Ii11iIil1I56==268 then
-_IiIilIi11l12.BackgroundTransparency=1
-_Ii11iIil1I56=917
-end
-if _Ii11iIil1I56==917 then
-local in putBox=Instance.new("TextBox",_ll1i1il1ii10)in putBox.PlaceholderText="Paste your key here"
-_Ii11iIil1I56=257
-end
-if _Ii11iIil1I56==257 then
-in putBox.Size=UDim2.new(0.8,0,0.08,20)in putBox.Position=UDim2.new(0.1,0,0.33,0)in putBox.Text=""
-_Ii11iIil1I56=881
-end
-if _Ii11iIil1I56==881 then
-in putBox.TextSize=14
-_Ii11iIil1I56=121
-end
-if _Ii11iIil1I56==121 then
-local _ilIIiI1lli44=4671
-_Ii11iIil1I56=828
-end
-if _Ii11iIil1I56==828 then
-if (1~=2) then
-_Ii11iIil1I56=708
-end
-if _Ii11iIil1I56==708 then
-in putBox.Font=Enum.Font.Gotham
-_Ii11iIil1I56=697
-end
-if _Ii11iIil1I56==697 then
-local _IiiilIl11l45=4707
-_Ii11iIil1I56=529
-end
-if _Ii11iIil1I56==529 then
-end
-_Ii11iIil1I56=825
-end
-if _Ii11iIil1I56==825 then
-local _1IlIIiil1l46=6749
-_Ii11iIil1I56=450
-end
-if _Ii11iIil1I56==450 then
-if ((2+2)==4) then
-_Ii11iIil1I56=992
-end
-if _Ii11iIil1I56==992 then
-local _i1IiiI1i1I47=749
-_Ii11iIil1I56=198
-end
-if _Ii11iIil1I56==198 then
-in putBox.TextColor 3=Color 3.new(1,1,1)in putBox.BackgroundColor 3=Color 3.fromRGB(60,60,60)Instance.new("UICor ner",in putBox)local _1i1Ii11lII13=Instance.new("TextLabel",_ll1i1il1ii10)_1i1Ii11lII13.Size=UDim2.new(1,0,0,20)_1i1Ii11lII13.Position=UDim2.new(0,0,0.55,0)_1i1Ii11lII13.Text=""
-_Ii11iIil1I56=381
-end
-if _Ii11iIil1I56==381 then
-local _IIilII11ii48=3244
-_Ii11iIil1I56=913
-end
-if _Ii11iIil1I56==913 then
-end
-_Ii11iIil1I56=758
-end
-if _Ii11iIil1I56==758 then
-if ((1*1)==1) then
-_Ii11iIil1I56=330
-end
-if _Ii11iIil1I56==330 then
-_1i1Ii11lII13.TextColor 3=Color 3.fromRGB(255,80,80)_1i1Ii11lII13.Font=Enum.Font.Gotham
-_Ii11iIil1I56=882
-end
-if _Ii11iIil1I56==882 then
-end
-_Ii11iIil1I56=359
-end
-if _Ii11iIil1I56==359 then
-local _illI1IIlIi49=1417
-_Ii11iIil1I56=902
-end
-if _Ii11iIil1I56==902 then
-_1i1Ii11lII13.TextSize=14
-_Ii11iIil1I56=784
-end
-if _Ii11iIil1I56==784 then
-if (type("")=="string") then
-_Ii11iIil1I56=254
-end
-if _Ii11iIil1I56==254 then
-_1i1Ii11lII13.BackgroundTransparency=1
-_Ii11iIil1I56=258
-end
-if _Ii11iIil1I56==258 then
-end
-_Ii11iIil1I56=148
-end
-if _Ii11iIil1I56==148 then
-local _IIllllil1114=Instance.new("TextButton",_ll1i1il1ii10)_IIllllil1114.Text="Submit"
-_Ii11iIil1I56=408
-end
-if _Ii11iIil1I56==408 then
-_IIllllil1114.Size=UDim2.new(0.35,0,0,30)_IIllllil1114.Position=UDim2.new(0.05,15,0.70,0)_IIllllil1114.Font=Enum.Font.GothamBold
-_Ii11iIil1I56=598
-end
-if _Ii11iIil1I56==598 then
-if (not false) then
-_Ii11iIil1I56=404
-end
-if _Ii11iIil1I56==404 then
-_IIllllil1114.TextSize=14
-_Ii11iIil1I56=841
-end
-if _Ii11iIil1I56==841 then
-end
-_Ii11iIil1I56=419
-end
-if _Ii11iIil1I56==419 then
-_IIllllil1114.TextColor 3=Color 3.new(1,1,1)_IIllllil1114.BackgroundColor 3=Color 3.fromRGB(255,60,60)Instance.new("UICor ner",_IIllllil1114)local _11iIIIIIil15=Instance.new("TextButton",_ll1i1il1ii10)_11iIIIIIil15.Text="Get Key"
-_Ii11iIil1I56=772
-end
-if _Ii11iIil1I56==772 then
-local _IIi1lIlIII50=5700
-_Ii11iIil1I56=434
-end
-if _Ii11iIil1I56==434 then
-if (type("")=="string") then
-_Ii11iIil1I56=289
-end
-if _Ii11iIil1I56==289 then
-_11iIIIIIil15.Size=UDim2.new(0.35,0,0,30)_11iIIIIIil15.Position=UDim2.new(0.5,15,0.70,0)_11iIIIIIil15.Font=Enum.Font.GothamBold
-_Ii11iIil1I56=568
-end
-if _Ii11iIil1I56==568 then
-end
-_Ii11iIil1I56=380
-end
-if _Ii11iIil1I56==380 then
-_11iIIIIIil15.TextSize=14
-_Ii11iIil1I56=448
-end
-if _Ii11iIil1I56==448 then
-if (not false) then
-_Ii11iIil1I56=199
-end
-if _Ii11iIil1I56==199 then
-_11iIIIIIil15.TextColor 3=Color 3.new(1,1,1)_11iIIIIIil15.BackgroundColor 3=Color 3.fromRGB(255,60,60)Instance.new("UICor ner",_11iIIIIIil15)local _1IIIIIil1l16=_iill1l11li2:Create(_ll1i1il1ii10,TweenInfo.new(0.5,Enum.Easin gStyle.Quad,Enum.Easin gDirection.Out),{Position=UDim2.new(0.5,-150,0.25,0)})_1IIIIIil1l16:Play()_IIllllil1114.MouseButton1Click:Connect(function ()if in putBox.Text:lower():gsub("%s+","")==_iIIiii11II0 rectKey:lower():gsub("%s+","")then _1i1Ii11lII13.Text="Cor rect Key"
-_Ii11iIil1I56=198
-end
-if _Ii11iIil1I56==198 then
-end
-_Ii11iIil1I56=443
-end
-if _Ii11iIil1I56==443 then
-if ((1*1)==1) then
-_Ii11iIil1I56=767
-end
-if _Ii11iIil1I56==767 then
-local _iiiIiIii1l51=6791
-_Ii11iIil1I56=684
-end
-if _Ii11iIil1I56==684 then
-_1i1Ii11lII13.TextColor 3=Color 3.fromRGB(80,255,80)task.wait(1)local _1II11Ii1l117=_iill1l11li2:Create(_ll1i1il1ii10,TweenInfo.new(0.3,Enum.Easin gStyle.Sin e,Enum.Easin gDirection.In),{Position=UDim2.new(0.5,-150,0.35,0)})local _IIil11i1II18=_iill1l11li2:Create(_ll1i1il1ii10,TweenInfo.new(0.25,Enum.Easin gStyle.Sin e,Enum.Easin gDirection.In),{Position=UDim2.new(0.5,-150,-1,0)})_1II11Ii1l117:Play()_1II11Ii1l117.Completed:Wait()_IIil11i1II18:Play()local _ll1iiIii1l19=_iill1l11li2:Create(_i11iIli1ii6,TweenInfo.new(0.25,Enum.Easin gStyle.Sin e,Enum.Easin gDirection.Out),{Size=0})_ll1iiIii1l19:Play()_IIil11i1II18.Completed:Wait()_i11iIli1ii6:Destroy()_iilIiii1iI8:Destroy()loadstrin g(game:HttpGet("https://pastebin .com/raw/YourScriptID",true))()else _1i1Ii11lII13.Text="Key Is Not Cor rect"
-_Ii11iIil1I56=998
-end
-if _Ii11iIil1I56==998 then
-end
-_Ii11iIil1I56=726
-end
-if _Ii11iIil1I56==726 then
-if (not false) then
-_Ii11iIil1I56=595
-end
-if _Ii11iIil1I56==595 then
-local _I1iillIl1l52=1589
-_Ii11iIil1I56=564
-end
-if _Ii11iIil1I56==564 then
-_1i1Ii11lII13.TextColor 3=Color 3.fromRGB(255,70,70)task.delay(2,function ()_1i1Ii11lII13.Text=""
-_Ii11iIil1I56=364
-end
-if _Ii11iIil1I56==364 then
-end
-_Ii11iIil1I56=629
-end
-if _Ii11iIil1I56==629 then
-if (0==0) then
-_Ii11iIil1I56=232
-end
-if _Ii11iIil1I56==232 then
-local _1Ill1li1Il53=6593
-_Ii11iIil1I56=270
-end
-if _Ii11iIil1I56==270 then
-end )end end )_11iIIIIIil15.MouseButton1Click:Connect(function ()if setclipboard then setclipboard(_I11IlIliii1 k)_1i1Ii11lII13.Text="Lin k Copied"
-_Ii11iIil1I56=128
-end
-if _Ii11iIil1I56==128 then
-local _ilIlIiiI1l54=9900
-_Ii11iIil1I56=591
-end
-if _Ii11iIil1I56==591 then
-end
-_Ii11iIil1I56=454
-end
-if _Ii11iIil1I56==454 then
-if (1~=2) then
-_Ii11iIil1I56=380
-end
-if _Ii11iIil1I56==380 then
-_1i1Ii11lII13.TextColor 3=Color 3.fromRGB(80,180,255)task.delay(2,function ()_1i1Ii11lII13.Text=""
-_Ii11iIil1I56=323
-end
-if _Ii11iIil1I56==323 then
-end
-_Ii11iIil1I56=519
-end
-if _Ii11iIil1I56==519 then
-if (true or false) then
-_Ii11iIil1I56=405
-end
-if _Ii11iIil1I56==405 then
-end )else _1i1Ii11lII13.Text="Clipboard not suppor ted."
-_Ii11iIil1I56=369
-end
-if _Ii11iIil1I56==369 then
-end
-_Ii11iIil1I56=262
-end
-if _Ii11iIil1I56==262 then
-local _l1illiil1l55=9968
-_Ii11iIil1I56=313
-end
-if _Ii11iIil1I56==313 then
-_1i1Ii11lII13.TextColor 3=Color 3.fromRGB(255,100,100)end end )
-_Ii11iIil1I56=0
-end
-end
-end
-return _IiI1i1i1ii58
-end)()
-if _iI1illliii57 then
-local _IliliIIiII59=_iI1illliii57()
-end
+-- SERVICES
+local _I1ll1ll12 = game:GetService("_I1ll1ll12")
+local _1llIl11I3 = game:GetService("_1llIl11I3")
+
+-- anti Duplikat
+pcall(function()
+	local _I1II1lII4 = game:GetService(_1I11ll1I23(3)):FindFirstChild(_1I11ll1I23(4))
+	if _I1II1lII4 then _I1II1lII4:Destroy() end
+	local _I11IIll15 = _1llIl11I3:FindFirstChild(_1I11ll1I23(5))
+	if _I11IIll15 then _I11IIll15:Destroy() end
+end)
+
+-- BUAT BLUR EFFECT
+local _Il11IlI16 = Instance.new(_1I11ll1I23(6))
+_Il11IlI16.Name = _1I11ll1I23(5)
+_Il11IlI16.Size = 0
+_Il11IlI16.Parent = _1llIl11I3
+
+local _lIll1l117 = _I1ll1ll12:Create(_Il11IlI16, TweenInfo.new(0.5, Enum.EasingStyle.Sine, Enum.EasingDirection.Out), {Size = 15})
+_lIll1l117:Play()
+
+-- GUI UTAMA KEY
+local _Illl1III8 = Instance.new(_1I11ll1I23(7))
+_Illl1III8.Name = _1I11ll1I23(4)
+_Illl1III8.ResetOnSpawn = false
+
+local _IIllI1119 = pcall(function()
+	return game:GetService(_1I11ll1I23(3))
+end) and game:GetService(_1I11ll1I23(3)) or game.Players.LocalPlayer:WaitForChild(_1I11ll1I23(8))
+
+_Illl1III8.Parent = _IIllI1119
+
+-- Frame Utama
+local _IllllIII10 = Instance.new(_1I11ll1I23(9), _Illl1III8)
+_IllllIII10.Size = UDim2.new(0, 300, 0, 150)
+_IllllIII10.Position = UDim2.new(0.5, -150, -0.5, 0)
+_IllllIII10.BackgroundColor3 = Color3.fromRGB(25, 25, 25)
+_IllllIII10.BorderSizePixel = 0
+
+local _l1IlIlll11 = Instance.new(_1I11ll1I23(10), _IllllIII10)
+_l1IlIlll11.CornerRadius = UDim.new(0, 10)
+
+local _1lIlIII112 = Instance.new(_1I11ll1I23(11), _IllllIII10)
+_1lIlIII112.Color = Color3.new(1, 1, 1)
+_1lIlIII112.Thickness = 2
+_1lIlIII112.Transparency = 0.7
+_1lIlIII112.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+
+-- Judul GUI
+local _llI1II1l13 = Instance.new(_1I11ll1I23(12), _IllllIII10)
+_llI1II1l13.Size = UDim2.new(1, 0, 0, 40)
+_llI1II1l13.Text = _1I11ll1I23(13)
+_llI1II1l13.TextColor3 = Color3.new(1, 1, 1)
+_llI1II1l13.Font = Enum.Font.GothamBold
+_llI1II1l13.TextSize = 18
+_llI1II1l13.BackgroundTransparency = 1
+
+-- Input Box
+local _ll1lIIlI14 = Instance.new(_1I11ll1I23(14), _IllllIII10)
+_ll1lIIlI14.PlaceholderText = _1I11ll1I23(15)
+_ll1lIIlI14.Size = UDim2.new(0.8, 0, 0.08, 20)
+_ll1lIIlI14.Position = UDim2.new(0.1, 0, 0.33, 0)
+_ll1lIIlI14.Text = _1I11ll1I23(16)
+_ll1lIIlI14.TextSize = 14
+_ll1lIIlI14.Font = Enum.Font.Gotham
+_ll1lIIlI14.TextColor3 = Color3.new(1, 1, 1)
+_ll1lIIlI14.BackgroundColor3 = Color3.fromRGB(60, 60, 60)
+
+Instance.new(_1I11ll1I23(10), _ll1lIIlI14)
+
+-- Status Label
+local _I1lI111115 = Instance.new(_1I11ll1I23(12), _IllllIII10)
+_I1lI111115.Size = UDim2.new(1, 0, 0, 20)
+_I1lI111115.Position = UDim2.new(0, 0, 0.55, 0)
+_I1lI111115.Text = _1I11ll1I23(16)
+_I1lI111115.TextColor3 = Color3.fromRGB(255, 80, 80)
+_I1lI111115.Font = Enum.Font.Gotham
+_I1lI111115.TextSize = 14
+_I1lI111115.BackgroundTransparency = 1
+
+-- Tombol Submit
+local _llIII1Il16 = Instance.new(_1I11ll1I23(17), _IllllIII10)
+_llIII1Il16.Text = _1I11ll1I23(18)
+_llIII1Il16.Size = UDim2.new(0.35, 0, 0, 30)
+_llIII1Il16.Position = UDim2.new(0.05, 15, 0.70, 0)
+_llIII1Il16.Font = Enum.Font.GothamBold
+_llIII1Il16.TextSize = 14
+_llIII1Il16.TextColor3 = Color3.new(1, 1, 1)
+_llIII1Il16.BackgroundColor3 = Color3.fromRGB(255, 60, 60)
+
+Instance.new(_1I11ll1I23(10), _llIII1Il16)
+
+-- Tombol Get Key
+local _l1l1Ill117 = Instance.new(_1I11ll1I23(17), _IllllIII10)
+_l1l1Ill117.Text = _1I11ll1I23(19)
+_l1l1Ill117.Size = UDim2.new(0.35, 0, 0, 30)
+_l1l1Ill117.Position = UDim2.new(0.5, 15, 0.70, 0)
+_l1l1Ill117.Font = Enum.Font.GothamBold
+_l1l1Ill117.TextSize = 14
+_l1l1Ill117.TextColor3 = Color3.new(1, 1, 1)
+_l1l1Ill117.BackgroundColor3 = Color3.fromRGB(255, 60, 60)
+
+Instance.new(_1I11ll1I23(10), _l1l1Ill117)
+
+-- ANIMASI FADE IN (muncul dari atas ke tengah)
+local _1II1lIlI18 = _I1ll1ll12:Create(_IllllIII10, TweenInfo.new(0.5, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {
+	Position = UDim2.new(0.5, -150, 0.25, 0)
+})
+_1II1lIlI18:Play()
+
+-- Fungsi Submit
+_llIII1Il16.MouseButton1Click:Connect(function()
+	if _ll1lIIlI14.Text:lower():gsub(_1I11ll1I23(20), _1I11ll1I23(16)) == _1I11lIl10:lower():gsub(_1I11ll1I23(20), _1I11ll1I23(16)) then
+		_I1lI111115.Text = _1I11ll1I23(21)
+		_I1lI111115.TextColor3 = Color3.fromRGB(80, 255, 80)
+
+		task.wait(1)
+
+		-- FADE OUT GUI turun sedikit lalu langsung naik
+		local _II1Il1II19 = _I1ll1ll12:Create(_IllllIII10, TweenInfo.new(0.3, Enum.EasingStyle.Sine, Enum.EasingDirection.In), {
+			Position = UDim2.new(0.5, -150, 0.35, 0)
+		})
+
+		local _l111I11120 = _I1ll1ll12:Create(_IllllIII10, TweenInfo.new(0.25, Enum.EasingStyle.Sine, Enum.EasingDirection.In), {
+			Position = UDim2.new(0.5, -150, -1, 0)
+		})
+
+		_II1Il1II19:Play()
+		_II1Il1II19.Completed:Wait()
+		_l111I11120:Play()
+
+		-- Hapus _Il11IlI16 bersamaan dengan animasi naik
+		local _IllIll1l21 = _I1ll1ll12:Create(_Il11IlI16, TweenInfo.new(0.25, Enum.EasingStyle.Sine, Enum.EasingDirection.Out), {
+			Size = 0
+		})
+		_IllIll1l21:Play()
+		_l111I11120.Completed:Wait()
+
+		_Il11IlI16:Destroy()
+		_Illl1III8:Destroy()
+
+		-- Load GUI utama
+		loadstring(game:HttpGet(_1I11ll1I23(22), true))()
+	else
+		_I1lI111115.Text = _1I11ll1I23(23)
+		_I1lI111115.TextColor3 = Color3.fromRGB(255, 70, 70)
+
+		task.delay(2, function()
+			_I1lI111115.Text = _1I11ll1I23(16)
+		end)
+	end
+end)
+
+-- Fungsi Get Key
+_l1l1Ill117.MouseButton1Click:Connect(function()
+	if setclipboard then
+		setclipboard(_l1IIIl111)
+		_I1lI111115.Text = _1I11ll1I23(24)
+		_I1lI111115.TextColor3 = Color3.fromRGB(80, 180, 255)
+
+		task.delay(2, function()
+			_I1lI111115.Text = _1I11ll1I23(16)
+		end)
+	else
+		_I1lI111115.Text = _1I11ll1I23(25)
+		_I1lI111115.TextColor3 = Color3.fromRGB(255, 100, 100)
+	end
+end)
+end)(...)
