@@ -1,20 +1,3 @@
---[=[
-    Obfuscated with Luau Obfuscator Pro v4.0
-    ID: MQEHXPJ2BEUTS0QX
-    Time: 2026-01-26T05:04:58Z
-    
-    Protected by:
-    - Control Flow Obfuscation
-    - Variable Renaming
-    - Garbage Code Injection
-    - Opaque Predicates
-    - Code Compression
-    - Virtual Machine
-    - Function Wrapping
-    - Anti-Tampering
-    
-    GitHub Raw + loadstring() Compatible
-]=]
 
 local _1IIiI11Ili68="KQ1F84C3BCK6"
 local _liiII1ilII67=#_1IIiI11Ili68
