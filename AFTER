@@ -1,238 +1,123 @@
 --[[
 ╔═══════════════════════════════════════════════════════════════╗
 ║            FLYCER OBFUSCATOR - RAMADHAN EDITION 2026          ║
-║              Premium Lua Protection System v4.7.2             ║
+║              Premium Lua Protection System v5.0.1             ║
 ║                  🌙 Barokallahu Fiikum 🌙                     ║
 ╚═══════════════════════════════════════════════════════════════╝
 
-    [✓] Multi-Layer Encryption: ENABLED
-    [✓] Control Flow Obfuscation: ENABLED  
-    [✓] Anti-Debug Protection: ENABLED
-    [✓] VM-Based Execution: ENABLED
     [✓] String Encryption: ENABLED
-    [✓] Junk Code Injection: ENABLED
-    [✓] Constant Folding: ENABLED
+    [✓] Junk Code Injection: ENABLED  
+    [✓] Variable Name Randomization: ENABLED
+    [✓] Control Flow Obfuscation: ENABLED
+    [✓] Anti-Deobfuscation: ENABLED
+    [✓] Watermark Protection: ENABLED
     
-    Obfuscated at: 28/1/2026, 13.05.42
-    Protection Level: MAXIMUM
+    Obfuscated at: 28/1/2026, 13.15.06
+    Protection Level: PREMIUM
+    
+    🌙 Ramadhan Mubarak 1447H - Taqabbalallahu minna wa minkum 🌙
     
 --]]
 
-local _ERfceba08a="ae8137df4864ceb7fae7c91565292080ec820a7f42e19c5ab6ff193"
-local _FL478f84="f6bf34efcb0c305b22dbfc15c44ef4ee812cfe4b14a19ffa0e"
-local __L43659c="4847ea1c4bad1179e8280c67684f94905b7c6587"
-local _FL1e4c="d88593ff95ce12f114b304d2b798192cf523ff577"
-local _YC549c2d="b80a91a43db051d0e9658c6a67f44bb781b69c"
-local _ERf7504="0f21ad2a6a66486248bcbd986b69a4c4738f1f286b59547de65ca6e"
-local _FL03a0bde7be0="d3b2b47b7d06b39240f57c"
-local _YC142bd="a7a18b0f404f29dc87da8bebab"
-local _FLcb0c99e3="12320ec9d49df71be963991f0cb25"
-local ___Cbf16="b3bf1558f09ba2cb50925dd1dd2cf5aae36d13"
-local ___Cde7af9f4="0542191cbf3a6b6242ab7703410d3765b95dc1032103b8c90974376c8a4"
-local _ER36d944521a="f0190d145f265aa4597082ac3a0ddddfff4d81c5dbb9d300ed"
-local ___Cd2ad19d4fc5="7781da3cb4cef46bea59dc03e3872c"
-local _FL7d5ad1765="11db9f9262486a70f2c917c26b"
-local __L2398d7b0b="c436ddcbbb3114d88aeebd9997eb0e9a6039"
+local __FLYbf1a="865ba72f2ed6024bda9cb09cf30226edb41ff1b966127283df"
+local _YC13cf="c20ebfa3219229bef8cf9623"
+local _FL269d4="9b40d2d9c43cbd0ba3449de91e1a66e95da387318bf48b5272508f36"
+local __L3092659c0="8508a8902c145277dd79a487ffc74b0ea732e"
+local __L3af0ab7="56ac69ff864f0024686ad8f827def9ddb799d2fbc47bb2c7391906fb"
+local __FLYb36122ff="7bb513c6f83c65f3d7a356c25e3e7fb944c7ebcaeba7f113b6af246"
+local ___C5a1958bd2="d57e0da959f33f11d0f3c"
+local ___C12aca0a="7e82f98b1e6f1af5d83d3112e9137a9210eea019ee4bc48"
+local __FLY112842="f42576cf516073d6e3b8a331f1a735513071dc0d8aa12e2636e4961"
+local _ERf614877f5="1f834ea482eab913c26ec5bda13e0e52209"
+local _FL3edbff6="6fc2caf1e4b463f76f11305cb09894a6f1c03e6"
+local __FLY88ce4da4="ab6d8dd3fa67e09a4ff172d9494b6cb061e1"
+local __FLYd7f3ec4="895149f08d4613b30dbae2d84a755f2967f37d65444f5cb47c60bce83dd"
+local _FL01155e="2123f8c5d015285e35b0afc6c2326ee2c57365b6645d54"
+local __FLY100745564="a143ea6a740dab53a4be59e5f116660c6983fbd4558c14513b1ff374"
+local __CERb88217d="0d5effdaef6c6e708ec2c22df75d5223"
+local __CER27e3e39="b739fee943aed31f9e2f260506d24bb1b46f46a76b03f25a6"
+local _ERb7cb="23837d34fb907b51c4cc4a6d1ddd02ae265095cc5063"
+local __CERc04928e2d="a59de5dea4e85a57fab6aadfcb854925173dc9e6e110c877f00277581d"
+local __Fb4da79e3="cacca0aec7a93735b0f385121fd03c2fc9"
+local __Lf3b122a="5f925627dbd6aae60ea900cb7227cef54548b28f1ac76a4a04"
+local _FLade4652="95a3110b02d7dd446e5f106084ab2614"
+local __F4400="55efd82809375bbbf774"
+local __F26ccb3="825ef625eb5f30bcde72cc1fc5a989ed9"
+local __FLYbd3f059cc="65ef145523f59fa2005d46e87816c486777982926659d00e80650"
+local __FLYf2ec="c5e6218cedbc1357d4bab070e0fe604f23e0"
+local __FLY9bf87e22="1e460b731ba391870de8fcd69f6"
+local __L5100="e33585f5b3b17454e19e2943c1905bb841b8f1e3f20c794"
+local _YCbb84="85b6e8c49f24582f22301c0d"
+local _FL4062b4d45="3b90d6aff538d7215f93123dbd1cb4055c702256575d14f88bc715783"
 
+-- [FLYCER SIGNATURE]
+local _FLYCER_BINARY="011001010111100011001000111110110101111100111000011100100100000110000101000101011001100101101000000110100101100001100000100110001011010000000110110101110110110101010010111011000100101110001100"
+local _FLYCER_WATERMARK="[FLYCER][FLYCER][FLYCER][FLYCER][FLYCER][FLYCER][FLYCER][FLYCER][FLYCER][FLYCER][FLYCER][FLYCER][FLYCER][FLYCER][FLYCER][FLYCER][FLYCER][FLYCER][FLYCER][FLYCER][FLYCER][FLYCER][FLYCER][FLYCER][FLYCER][FLYCER][FLYCER][FLYCER][FLYCER][FLYCER][FLYCER][FLYCER][FLYCER][FLYCER][FLYCER][FLYCER][FLYCER]"
+local _FLYCER_HASH_A="7ff16c4fcba727ff529cda5c9bf065913bc417dd7207493e3e650bbb44b0c2a8"
+local _FLYCER_HASH_B="1576e2786bf718bc0b993aad621e76a2c27d2eb59e180f78006aafdaa5802fd3"
+local _FLYCER_HASH_C="71be178fa8e921f9e03bdf7e13e3d1b3c3468e33798539f120a5550fe5e59842"
+local _FLYCER_HASH_D="97fdd74b58d748277fdd93a749256f107f42f6f2fb9caf1d6ddfb78cc517617d"
+local _FLYCER_HASH_E="15e5b0e46d73b531af1f9d846d1019091eb34f99c176021c43231ed7ce5cf9c4"
 
--- [FLYCER CORE INITIALIZATION]
-local _FLYCER_MAGIC = "1001001000100000010100101000101110110000101110101010111000001100101100010011111001010010010000010001101111100101111100100001110100000001010110000010010110111100011000011110010101100011011000"
-local _FLYCER_SIGNATURE = "[FLYCER][FLYCER][FLYCER][FLYCER][FLYCER][FLYCER][FLYCER][FLYCER][FLYCER][FLYCER][FLYCER][FLYCER][FLYCER][FLYCER][FLYCER][FLYCER][FLYCER][FLYCER][FLYCER][FLYCER][FLYCER][FLYCER][FLYCER][FLYCER][FLYCER][FLYCER][FLYCER][FLYCER][FLYCER][FLYCER][FLYCER]"
-local _FLYCER_HASH_1 = "d674404ef99df8a2c65fe08408b98847fda3936145e60a86712fbda46253854c"
-local _FLYCER_HASH_2 = "b0b9df626a39849aaf71c0791e9bf1380cdaab66cdb770d397b59df79b68e197"
-local _FLYCER_HASH_3 = "3f51a084a909f67930613976c369e4811a6b20584499c350f42d6f50102ff0f5"
-local _FLYCER_KEY = 162
-local _FLYCER_ENTROPY = (function()
-    local e = 0
-    for i = 1, #_FLYCER_MAGIC do
-        e = e + _FLYCER_MAGIC:byte(i)
-    end
-    return e % 65521
-end)()
-
-
-local function __opaque_8ede5b(x)
-    return ((x * 2) / 2) == x
-end
-local function __opaque_440a87(a,b)
-    return (a + b) - b == a
-end
-local function __opaque_24d2de()
-    local t = tick()
-    return (t > 0) and (t < math.huge)
-end
-
-
-local function __vm_b56feb23(...)
-    local args = {...}
-    local sum = 0
-    for i,v in pairs(args) do
-        sum = sum + (type(v) == "number" and v or #tostring(v))
-    end
-    return sum % 997 == sum % 997
-end
-
-local function __check_efdae6a5()
-    local env = getfenv()
-    local meta = getmetatable(game)
-    return type(env) == "table" and type(meta) == "table"
-end
-
-local function __decrypt_c5074007(str, key)
-    local result = {}
-    for i = 1, #str do
-        table.insert(result, string.char(str:byte(i) ~ (key + (i % 37))))
-    end
-    return table.concat(result)
-end
-
--- [FLYCER VM LAYER 1]
-local __FLYCER_VM = {}
-__FLYCER_VM.__index = __FLYCER_VM
-__FLYCER_VM._encrypted = "wOSdz//w387/7NTFy/jmyNHK9Yz/8NzR2Ozpi+yNlvGX8ZK8os/Pzv/1wMH87dPEyPn5ydLL+sT228/O4Ij9z/T47fOblZWxkPT02sDIys3y+uuS5erKx9Lm54Xmh+CH7YvswtjQ0tWakqWqko2izvnzkPL98OOYyvvjwubZ2vnR84zc7u/O3e3k89Lcq623oIyT9veR8tzCysTD8PjtlOfo1NnQ5OGD5IXuie+J6sTa0qyrmJCjrJD67cjGzcvdyuL9nPic+cnV39/e7+X+yPrXw8rkjPmziIe7spz05NDx4t7Pzf780uXpnsjl9srb0eLgztvAj/bej/DXooeAsJ2dqs7Aw8rtxe+QwPL72sn9993I1/Pzw+6K7/Th5O/S3KmA+4qMsf/hxMvR6vTq7ciZmcDP+NP60PSN3+/gz97ri4Xy7NSsiYuH9KKj1czD7OXmz/ub/eb1n+H65tnm0+Xl9e7r/dfI8NeKtZuaoKuIhdXE6c/B0OTq69zg7u/X/vXzw/j02dDx+vvc6fv09ZSUhJCTk//m95Td9vLB6JPi6ePYzfeIy/7NgNvU1YDO7tfZ/fSEjLWPh4S87+DTwujj6dnm6sPK5+zx1uPm+vHk4o3s4ovy7er6+ZKLh/Sil5Ca18eV7tLlx/HVz5ye4+OC+tv44vbP9fn6xPPq/rOIhor1i5XJ0OfM58Dh6uj/+ujo/Ob3i/fghc7n7dD7gvX48Mmihvu6ibzzz8DJnNLyw83p4OjO2ePz8Mv+8PTF/vzSzfDvyvX2g4ClioKLk/aS5sP3l5Hk/prlyv788vXQgczD1d31zODV9svc6YqJk6qjvIj29tfs4sDf5enqmODtxMPy2/LT/PX17evs0+nljvGQlYf6l4yCksT1l5/Uyprj0eDA9NbSg4Pg5oX/2PXT74rw/v/GjpWXsI2Bj5Pt987twfnG4ef/ncn53ffL0uPz39X/78D40cXI5vKHsYqMi/b7++6V8+CR08vz/t3MnYTW4uD2wNfgz/LY/IXX5+i3pqObipai9ZbRxPGSxuDum8v3w+nD0oDm/9fxjtLg7czb5/nTuqWFhbGc9PTu/fLsy8rq65Ll6pvf0vDCwNaH+N/a+vjB2Pr4xqSEiPKgjZTUwc3kn+7vnNrJ7d3dzYL/2tH398zT/4DN6tLrjtuH+LeKgPWhwM7I1uXAx93m+O7pzcLm2db04dLjhfbA4OzqyOyMlrGBrryzn5Dl1+zh/ZnLx+WczPmWxfj1/c3v4fGI4+z11t7T6ayjqaf1pJXF0+fM58Dh6ujYzp/gx9Ly8Mnthvzb4u6P89jq1diQkoCJpquIkvrzkMz9+5zf8fTOwebc/9jQ2ePa1dPdi9rv9M78qYClioeHvPuQ7sn88J3hzvzH2PrC9sXo4PWM//Ty/Nvj8o3n6PWrmJb1qaLl9d33l/Hi4M3Ey+Tt7tfSgP3N7+HhzeuJ7czx0vWsovCV9JH0l/fH4uCUysDrkuXq9MfS+fzf99z30PH6+MHljvTTmpb3i6CSrdf0z8nT/e//nvrB+8H26OvC0Yf80efr+/zZ0uvK86yxiKGpl6rH5u7Jx+Dum8v8ldTiw/7B697MxdTa2/Lz+P3a9/6vpouAhaKn9frD/5TxmMji/dzk5v3f6+WH//z19t/w+frb9P39upjxiaifkZfrwPLN0v3u7NL2+puf+fWC1O6H4IfZ8ezL9/7V9ImCg6SNgpDRwJbz1v3B69DO+5nJ9ueE2fr8+4PV0YzN2NGEjuWXj/Kb9qH3w/Dmlcfg/tzpwu3K5+zx1vvw9dLVhNTM9tX+xNyMkq2b8JajnJH11O7u6cLKx/3Az8XLgdDh2P/89fbf8Pn62/T9/bqY8Ymon5GX68DyzdL97uzS9vqbn/n1gtTuh/DD4u3K8+bl7OuamYjxpZKIzujn7+LFm+PG+Z/73ubZ2vn69/TR/v/vydiO6PX2g4ClioeEoevg5t//lOLF8PyZ5cr428Tn9PLM7OCNifP/jNrkjYa1mJe0jZz68fD//u2ayP3lwObt5fTTgfnY54XhyPDT0Pf0/f6niIWVsZ+HzcTt5ufA68DrzOXu7Nbq6eCC19iC0NuL9MLm6ujKkvKUs4eokNf55crt6/uZzfqf58L26OPe+vGE3tbvjd3p0vfW3ZeUiaGD/Kz79NPC/Mn+3POY/t3MnYTW64D+2e/v6tXu7PrN3NSauJuU9amN6uHMxsvx3c3pwOfk7e7X+PXLwuyE8cvw/eHF5OmOrIiG86OWkZfZwOLg0vGb/97OwPic+/L49NfY8MPi6vPL/9T/2ImCgK6nqIDW+feQ6f7/mMbi6J3J5tuA2tLjgPHU1f/O4e/09faDgKWKg5+/+/SVyerL5tnPxvnK/vzy9eaDgfLl4tvM6Irq9+aOjouVqJGOj+Hiw+zh/dHw/ZrA4cLtxtKA34TU4Y7N8P6L2+vr7bCjloqxp6v0kO/h59Lm+t3M4Pnrn/3yxdT59oKG9Pr7z/LH/8+DqIOkjYaEz8DJ49L9+5zp8vvj3PWD+8TX44Dd5oqAydmP9MT2hPGlkvT8ifDIyO3qy+r6+f6d7/vD3Nfjg4344obx8vP4/dr3+Jq4m5T1qYrJ6dLGy/XEysbl3MjD+eHQ6tvY1/X2gfD++vf0/f6niIWZvZyRk8/ozuDNzO7Gmfb+75b5+eDK0OLj/PH6+9z1+uTGmZbzr4iulNv688HI/v/j2fH/7Jfm+OPL1+Pg/f77+N3y++fH5pfwro+oh67BzvLQwuTpkOPj7sXNwubE1vLb0v/0+d750v3a9/yCsqDxiq2k4eHOx5Xt3fPy4sv9/e3609z9hOzhgtLj6Y7J5+bcr4iulY6U9Jvaxsjw3uHAweDl7u/I+fb8xdfYg9vb0I//3o70ypqZiJCdkpTSx/zowff76/z568Ha492E3tfN0sH7+/jC9tXW9faDgKWKg4uwwc6RycXOnfjz8+bBzMHh1uLg9tjV2v7N4OrT2vf8gaaBqoWij+Hh18eU6cDL6enWzOnp29OB0NPl5fXy29T1jOTpiqqbkfaxn57BzO3OytPx/s7H+Oroxurmxdr/5NnQ8fr73N+P1teahvvwiK7zysHz8MH3++jD/p7FxvX3iIH609rR/vv43diO1dblh/jxj6+PrvuR0MvFypGYyMb++M3C9sTRgPbd1druzOOI19ru7IG5gaqFoo/h4d7E4eHDy5nI2fjplsrQ6uHE14SD3+np+erv+dO0jKv2sZ+ewczp5tHA5P3vmuDu79j88vPH+eHjx/vQ+9z1/vzFoYaEqKb2pdf2lsmQ/fvok+Lq++vO54HL/9mA2tPB3sL3//zE8oO2pY6XsqHv2eXV5c7pzuPo7tfP6Pba0IDXwOHc1Mzg/OqJ9/vwpo+Cq6KP4eLDxpTPwPPtkp/hxcPE6OXX2Pzyh9/w1PHV2Pn5uqLwlfSKr5rVwOLwk8zh/NL29ePZ1ObZxeaG4Mfr7ovT5o/o7qKGhKmekq7UweP3ysTBnN3Jwc7H7Nnw1fr398zW///R2Y/ey+yX8KqZ9pOCwJHc08XN5c76+O7pzJ3Ix9HZ+cDs2fLP2O329e/Wp7aOgIWyiuHi0+73yM/g6erLzpzH2Ov1iof53dvM4O3f0Ov29aijrI2znJ7oz8bI6JLh7ZrM4e6anPPY89T99vTN2f780N6O3cqV84yrpoKQ98b858ru7JnN+fuYn83jhObqhvPF7e7rj9j76Mvq8rmymvaQjevg5cLv7+bG8/z+28rWheXQ9Njf7OL21djV7tHd1oH4i4WOqZ+R8tHHy/Gb4u7u2+Ht7sj88cTT+OL2y/D+/sv279CniIGCo6b0ysv+4p+U5MXow8/A+NrU8vOK/fLszuHui9f/1P/YiYKDiI2Gh8Xq7O/Kw+D/08nF78PM3ffG6eXF2tXV6PH41Y3K9oWPu5mTg/b48Obs/PDuwvDz5ebM6Inb6+TD0uzZ7szjiO7N3I30ppvwjqmf+vHI9uHxwPPt/dXm5u3Y0t/lwdH13PPw+frb9PnHtpjwhbeMgcrP/fL0y8vA65Ll6MLa04Lg29bY+Nv01I/X2MTZ1pKviKumkpPL6PXKwe7r6M3K6/vG9ffny//fgN7V7+zd6+/81+yHl6qZg5O/68TLwu/k6c7L7PrF9OjmyP7f+sXT2u3e6uj+6+z4rLWPqvGwnPrAy+j10M/k6dzL4O3Y1//28sT23/bf8Pn50+fp+aubmoqxlKvkycWXwt7Kmvze9ujg2dL2i8r5zPeO8fz06+jW5PWSuPeBlfWI5PfI98D2mJDn/53k5ebz8NX6893a7u/r1tjViP3d84upmZyPksP71Mnz4MSd8Pzbyv788cbx2vXS//T61uDs+tbk54m0l4SCvJz1lpTs4pfPyu3t1ff5moDy2/LT/PX28/D5+tv0+ce2mPCFt4yBys/98vTLy8Lk3c/Am8PT2POK/fDawtuK6NPe0PDTjKz3r6C8ocv18cnixZvj3/H05Mfk4d7V+vf00db/79Lh++vH7vL4u6Gpk7/uyOrTxcqdxcnH5sX06NyA0cr1jP/x7vzb7IzI3NKW8omHhbaP5ubd7vfIz+Dp6svM6fnY6/XlzeSEjsHb1+3F8dL9qKKvlbGhheOa7eLOy/H++MfPysHI+fLz1Pfc99Dx+vjI3o/w16KCgKyekoDJ+fzv5cWb+5rJnp3J/+Pz+NHa+4bu74zQ4e+Iy+WYoq2Kr5+/+/SVye/Ow+Lj6O3K5+jY3evk5tnV3PLP3vPuy9zs9ZWjm7Spj+aTw/Pz9djL/uLZz8P5g/r29sf88vbL8P76z/T6+rmKk6yjjIXjxMXi8M/y7vzS/cCXn9T2i8f42fTB24vWi93qh8qJhfKkkpCU0sHw7NPFxf+Z4Ojs3eb08MH68PDF/vuJwvbV1vX2g4ClioOtqvv09snFzOLfzuP+28z8hfLr5PrH7ITyz97sidbvjfmyoPCNv4/mk8P0lp7n+8HH5OHF6fTgguX74/CO/O2Kw+zo2dCniIGCo6SB9Mv+4vDe+cSTm8jql9v82vjF19jk29vV9MvZ0OjuoZmqr6aGh5vq4OTt7uvozeLrxcL25+Pe0N//wNPw68zZ74jv5piLrqGqlKHy8ObK/PDuwvDz5ebn7PHW+/Lb0v/0+d7Y/IXX5+i3pqaEqPWk5fbD9fXl4svE5Zz0+Zra6+GGwe/u1Nfw1unQ2PbtjZiViainhevT58znwOHq6JvN9fzc6uKH/O3ih9vx/Yrc9dHsz6SGuq+NoqnF6ufkwcPvxZrJ6/jb+oLdhOnn9I/+/u//2uuNx/Ot9K6nvaK+7uDl0evN6drj7+ne5+vxwfHa9dL/9PqJ2+PuzuTs9ZCg8Iq1ouXP0sfP5pHg7P3pzPmfyf3fhtjRz9DP9fn6xPD9yKeMgbSjiIXJ6O3m58Dh4fjbyOrWw/za+Nvth8LZ29SDit7Q7OqjrIS2p/aEysDJ89P+m8LN+//s1uzZ8NX69/eG1uDryeHviOvlmKnyioD1oevI9tXFlPrByMbiwefqgd3W9OLM/9DX3vP4/dra+KzxoISRsJTPmtHB5eaR4O/92cn5n8Xj34rB0fWC8NuJ6dPk6Y6Do/C7r4av48Tt5uSXyfH42Pb+m/rq6dqD4YfageLq+4L1+fuNg6iDpI2GhJLC/PfV/fuc//H0xZ7+gojB0Yf8zP78id3qjITx7autio+ol4D15fbD95eR5P6a5ebn7PHW+/vmxdLwwNX21+7R2/eSmJOUvLWckJbQ//GSmODum8v/+ZqB0+GG4e/u34ju//3P3OnbtaOVlbGhhZfu/vL8l+vA68zl7uyf0engwO7mg+bh4fDX3tPv2JCSgKyekoDJ+fzs7e7r6M3i7cLJ5vPw1dHzjNzu787d4o7FyNzyl4GnnJf2wJGQwvb06uPIxeKd9/iF2+jggcDs79vW89fu0dv3koKmm5b1pJCXze73yM/g6erL9JzXxtKA5ffR7uWI24iPyenT+bSbkYL9jIXo58bin93y/OCayOX82dLY+/j99vfQ8f70yN6O8NORr5TzoIL/1+/I69bCxfzN+//v+P333cb+3YDD7eDa1fb/ytnyuoCxioCEtevn6dLt9sfO4+jtyvedyMfRgeL20u/qidiJiMjr+Pm7o5uWtaSQl8P19eX+++3H2ODHmsXr6tDb+OXA3/Xu9o3x/f63jYGC9Y6XzcTt5ufA8ZvS3c+f+OzU6eCD1oeCwunU/NHdj9rGovKUtp6AiNTB45zf6tHok+Lp49jN94jL/s2A29TVgM7u19n99ISI842XsqHs2eXW7+PL3uH6w8rn7PHW64HMw9WF7vre4+6N3I30tJOu/byc5fXd8JTLnvP86dzI6fnD+PaD0/j32N/w+frb5IzHtqLwlYehnvCTxpeS0v7u/J/I7u+W+fL+99jM//zx+vvc9frwzKLyjK+Vq5CSx+Oc0+vD89zJwvzJ/+Pz9NHa48L70+PM2dLsy+3y+PKig4Oy886d1vzmx87j6O3K953Ix9GB4vbS7+qJ2ImIyOj4lvWmhYq1o8/2w/X15tHk68TL5O3u1+iAy8LWhOH73eLpjN+Mi7WXhZXwoYPs1cbin97l0OuS5ejg/+Ta6PnmzIPi6u/S7uSN8O+UhPuQh6yHxern58zF75DQ8fnnn8v448TR3YDn7uDz1tnS7Nnvk4OtmZODrfj77e7v5OnO4+rDyufs8dbQ9I3f7+DP3uOJxMvdjZaFoPCOsJz66sP19eXiy8TlnPT5mtrr4YbB7+7U1/DW7fbsjIa5o6+VvYyvyejt5ufA4e7k2M6e4MPhg4vK1tjgzvTS9M3f0IvTo62Iq56CqpPA3eSf7u7/78r7ndvN3eeB+PD0xf783sr41fzZ9oODqKGD/Lz49urTxcqdxcnCmfz39/rd0N3l0ubk+tPY/IXH5OqK8KaLlrOkxczD7OXmz+rD6svk7e3a0/WKzu/j/Ynd8unK39eKjqPxlb6fk+iSwO300crD7O/O6sLF0cvC99aHg8Li7vSL9/rkjqKsjPOlkv/X6OfO7e7r6M3i7+zJ5vPzxers/9rV1ujP7vv7x+WX9PKMr5eqwZD23MSUw8bh+sPK5+zx1ujkgd795tfe8/j92v3WgaaLgIa8nPrxlcbLk8/I7f3E9+n5yfLf5cHv99jz9emL2+yN9ayYmpGojIPw08eW9M/KxOTH5ej839OC8MDt7d382v6D0eXqydiar5S2nfaU0sGWkcH+m+PG8vT/wv333cjX8/PD7orv/9rk88ndh4f3iIyHrsHO8tDC5MPi4+jtyufoyMfrgfLG//DqydmI/s7n56yGoa6CsZzx4p3s48vdypn5xM/D4dz934bY0c/Q0evU8dTf6eqpipOso4yF48T+4srdy+7Sw8n49Nbp5oPf+N6D39ru79zs7v/WkoauuaeCvsrG8f/f/v+YxuLLwsnm8/DV6fPZzNT/wdLe6efH5pfwro+oi7bHzvHC9vTq//jswNnjxoXE6OvX2vvkz9727/XK8vyBto6AhfSL4cjv7OXmz+Dt+dzOne3D6Orf89bb8czj6Y7t343xsKWFr7Knr+Oa7ePw4sn+mtLgwJvD1MjVxPj298/1+s3c8f7J2I6Vg7OHrIfF6ufnzcbw593J6+ub/d772tHj4MPm1f/Q2o7Zx93zl7eZgYuwwOSd3Ove6ZDj7uLbzOiJyP/KgdjV2oHN79DY/vX7kbaOgIX1i+HUw+vy5tjqw+rL5O3t29Dq/cPX8fGN69Tx1N/p6rWQr/q9n4H02vGXypHy/+jbyer43Pn1gtT59NnQ8fr73Ob60sWjhrqroZCc2/rzlMrrxOvCyMH728vz8Iv6/Pfe1NXvz9/90tn2g4ClgK2Eoevg5tbElebByOjuxs/3/sbQ9PKA54WBwNjW6sT3+/CmkZTxv6Ll5dH8lPLdy8f9n+bt5ebi5/3C1tuC1NrT8sz+1/6niIGBr6Se7NTG4uCS+ZuT0s7A+Nb82vzF19iD29vV8NPm+tKOo7iD+o2DkOfC85XTxcX/meDo7N3m9PTF+OXa0f77+N3h+9HE3Ie5qqaRi7DBzpHJxc6d+PPz5sHMweHW4uD23tfv9s7Y/PqI7NGKqaCUkY6P4eLD7OfIz+Dp6svP6Zba6OXE0+/x28Ld/f3J5IzplZuaq/SMgpLE9/KT3czu7N71n/va0tzkgP/2/OLi4dKL6Pr41pqWtaqPlKnF6ufkwf3vxdDP6+vb9oLn5+ns3Yb704zS2evo2e+TgKuRg6m8xuTi0P+V/vzw88Sd58jf1vvw9dLs8NTD3vz6yOeNlpSYm6z1is7t1MDL8s/5+en6/+nDxPzbhsHv7tTX9OnM2/D9yKeMkbSjiIXJ6O3m58Dh7vjbz578x9Lc/N/i8uCD3PqP+OXq8M2a8oi1oJLzyfXs787Fxufd8vTnws3d/4f68IXR+unW3fL//Nnlh624p4ODs/uR8vD8/8CZ5sf+wcvn4dbi4PXc+/SMzvf4/sfa95aqobqNjo/h4sPs4fXYypn5xM/D4dzn9eWA0fWC/9uIjoz0+o+nk5X29aeVl+TGl5OX5MLO3cjqxsfS5PjF1vLn/PH6+9z1+uzPo/KQq6aoiM714/OSw+uc//H0xZ76gt2E6ef0j/788Ir41fzZ9oODqaKci/b79JHP/PH6xc/j/dj46OaF1vb6w9TwgcD3wv2E9/qOkZaono+U25bm9Jbp7v3G+cr8npb95YP6//z19t/w/enM3o3tqKOvjaiTgfSXwOaT9vHx4MfOw//I4OLw2NXt+MDa/vyO7tP016KWl4iNhofF6uXKwe7r6M3Iwfuey+j7x/rz58bUi+vS2dHz0umHl/anhbWqwM717uXOmN3j7uLU9Pj2gejg9vbS7+qJ2ImI9tz4+aublLOinMz10fyV9djLmJ/L9J3l3Ojq4djk2OGI3f2Cyfb2/aiir5WxoYXVxMDi8JPM6t3Mz+qX1dHp4MPWh4LE8f70zd76h8aLkK2kjYaHxcHjnMz+/97N8sL7nsv3iMf68IXR5O+MwN/7+8vm8pS3oamT9eng7vD8/8CZ+8X6ncroicT72t/+//T53vP89oza95K3oKrxip/1ksjs4pfPze39mMnt7sX92/Ld5NjhiN39gsn02dCniIGCo5yo9JPA4p/S5MXk28nA+8jg4vDl5vLaw/XQj87m5d3QjYK1pImRj9Xv5+TR6+vo0OX/xuXm8/DV+vP/h9Pw68zZ1Yjv3fOPsqeDqbDAyuWc7+/q38mZwJ3P+InE8dr10v/0+tDe4+6N3I30tJOugq+nkMfdx5Xx3fPv5drP6ZbJ/Mvyjfzx+c7b/YLF/tf+p4iBga2hnvCTxpeS0vnEk9L26vjW5YPehe7j9Mfd/uzI9fmO2I2AraSNhofF+srzlsPvkN/nwP/Cyvjg1ePn94bt4NGK+NX82faDg6unnJf2wJGQ0PTKkdzO6O2U5+rmxNbkhMDk2oHM3viJ9dyMkq6blPWGpJDbz+bP5s/g6enFyfb9gNOAh8Hj8eGM3fz1zNjT6qeRkYK8i4fNxO3m58Dxx/ybyOqX2vzd4N/R/eTz2ovCzd/X89iQkoCHkPXz5fDxxtPx7f/z/eqU6vuAyeLm09rR/vv43eLS647bh/i3j6+D98bknebC//qZyJmZ6cydyMfR2vWM//Di0djz8tH91oGmi4CGrKL68ZTHlJPd/O3t1ff5moD49oPT1vHxwePtjoz+1/6niIGCj4yF48Tt4t7R8Zvs2OXq5J7U+eDF1t74wdvUj9ff1P+GiYSutqf2lMrByevK68Wcxs/Vysf55d320Yf/w+3g8NPw7dLZ9oOApZqqk/bG5J3Q95WR0MjG+tTixP7H0d6B2dXb8tHg/NCM3caB+IuFkoCn9ZPRx8vxm+Lu6t/k6sjA8tvy0/z19dHd4umM34yKhKPxibGfnuvW8eLg3vL+n5vl6Z7I6d/kg9Dyj8L70Pvc9f7/9ImCg6SNgr7U+pbj1e7v45vP5P/Yzdz/gtDZjMTt6/iD8vnRy9zzk6qhqYuq7s6RycLez8D8/sD5yuf6x9OB4dz95tfe8/j92ufRlvGmhP2wk5Hx3ceU08TlweXaz+mWyfj2g9PkhI7L24nyxvHT5bmj8PKXl/brzOnP85bk6uvS4vn73Pn1+4L65t388fr73PX69I6kiZC1pqmIksDJnNT9+5z/yMHr28yD89rQ2ePD7ovS3evv/MnzqqaJioeEoevk7pTC7/rfyMfinc3CicPo4IHg1/DU09uJidHdjI2mkpCFvYXL4sPs5eXBzfL5nM+cmuTV+vnC1ITizez9/cXn6YrwiIbzo5yo9JPA4p/S68DrzOXu7+T58vPU/fL8htzx6M3e1IvxovKUuZ6QkNfH4/Pf6MPn3MnBmML2g+Dd6drjw+6L68rZjonR9JGupYqHhKHr4OXC7+H6mvD8+tj7nebI1t7Y3+zjyP3Z1urV2viVrputkvWi5ZrR6eXl/c2Y/cDPxcPF69+Lwdfb4Yvy/vrJ8NfUs4iKt4eckezR/pbs0cz+n8D9n5fc0oL7yf3xhtDpi4PI3o73xYysmLqm9/fx8ZTsyeTB6M3i7+zJ5vPw1fr39NH+/4jS3/vay92XrbeIg4uwwOSd3OrL4c7hwu3U4Pvl1vna9c363fHK8//1jPDsq7KBqoWij+Hiw+zl5s/g6erL5Ome2NX11MHX4dvN8v31yt/5hrmNqaCjjq/j2urx88DjwOvT4Mfn3Pn1+4L65t3E+9D73PX+/9iJgoOkjYaHxerjlM7D787fyfvB2+T3/8TR84zP+9Pw3fDV/MfxlJSliK2Evu7J7dbv4+GY5PjH5ufs8db78PXS//T5ydzo14vr+Lipp5CjtYXL4sPs5eXEy8f63O7H7tf48fL//PX23/D98Y3Z9u22o6v2iqf19Nn+8N7L8fHwx+PG4NnS3Iff7Ybn2OLX7M7ljuzPovP2rI+UqcXq5+TB7uvozeLq/5315+fH5objz9PV1dDh6M363K2XqqeDkKn7zfKVwuCR3Obo7vjKnebd0NjYwOzagMzY1uqO9fuBtI+qr7aP6tfn/PHp2vOZ4drJ+Zrb4ICKx9eF/sLw/ovb5IyGs6Pxif2OktLyxuLgkuPqweDl7u/I+fbkxu723fzx+vvc9fzR2ImCg6SnqJCSx/zv0+7v45vP5P/YzdfB3tHZ5P300YnO8vrryeWHh/KZl4eDw/vqlf/wncPw+tzezJ3+2dDw9tjS4I3T3vzQy9zWgvChhJatouX14cT+6Zjw/Z7G9/3IwPLb8tP89fWL2P3Xz+ft/bCi84n1p6uX08bIxcDy7pLg5e7vyPny89T99vTE2ov0097+/NWhhoS6nZKIkvn87MH3++vnyZ7jxs3288Hq7Nna1NGM/tr7+8fml4/ymZyMjevg5cLv5OnO4+ju3fTG8tvT9PLM7+D2ieDj9drn6PWqi4SKqp/66cz8lfXEysDb68z5mtvj39/N1oXl/Nj918/n/dipkoqVsJyRl9XF8vT0ypuTm/nq6NbU8vvD/fLwwuL6+MHY+vjGpIeAtaf3qpLC85zT7uD7xfH7meXm8/DV+vf00f77+N3y//zZ3Yf4qJqTsqH7kPLcxcr+3M7t7tvNndyB0+SNwP/ziN7jidTV3dKGq6aEkryKycuVx/Hh3cuYx8f4w5bG1fTx3NbY5s3s/YLG3ObtsKPw94+MhePE7ebnwOHq68zl7u/I0vaL2e3iwdDi/tbB2Pr4ypnzl6SUlofN+pfz38TF/9/P6u/YzILdgtLjjMP++4nd2I/v1tyuk5Oh94u2xuTI08TOw9z+/OrDzMLcgdbk5tn13vne8/j92vf8gaaLgIWij+Xx1MaV9cDLx+XA+enp2evlxMHj8eGM3fn6hfT28fCir6+xn7+XzsaW7NPx8fvE5cT72v3c69TXhuSG4vH30vD+/NShmYzznZLzyPn3zu3u6+jN4u/syebz897R2eT9/vv43fL//Nn2g4PympyLtO7NwM3H//nG5+iY2uD82/r78PXS//DuzOD6zNHc0pGKgar0sY/k7ZT8/u2Y4O+awPT24YHS3+XA7+GCiPrXw8rkjPmziIWZ9aer7JPF8p/S4eHkm/X15J/k5uTb14bgzuLui9fe0+/Qi5CtpI2Gh8XB45zM/v/ezfKexcbM3ffY1/Pjz/78id3v+4TU5pe5k6GDg/P4++3Q95XAwcnG6sfK6ObI8dr10v/0+sng0v7I3IyRppvxrK2lz+XOweHx0eDtktXk6ZrG1fHx3tTx8cHg7fWM5+b29pOvr7Gfg/jTx8vol/mbwtvO6v/A+dragtbi8MLai9bQ6dCHyaSHgKunq5fL6Pfnlsbv/9/oxezJ5vPw1fr39NHU1e+K3+T3y/ypgKWKh4eqwM717u/k6c7j6sPK5+zx1tGA5t3V2ero2Ijyzdr4rLegqoX8j+Xty/z+7cDwmfnAzsea+dXlgtzX247I4/zxyt+N7ZGYmon0iarg1ceXypfJ/pPe78TvyPny8MPXhPyG2tSPy97Q3diQkoDzp6uQzuDN5MHu6+jh4u/syeb4/4Lq7P+G5tbvit/7hMvzrJuyoPapr8Dk8cL29OrE8/zU1/T+39b78PXS1YTqz9n+9oza95K3oKrxkqf67dT8y9/E4O6by8nm5YHr49zT/PX23/rT+tv0/f2roJqN9JyRl8n+8N7P8cT82ODB/MPV+ePU5Ob33vX6jszx/vzFpImUqKe8j+nq5+TB7unGzeLv7MnL9/fI0s2AzNT//4nZ1dWP3IeTqqeDk4PD++qV//Cdw/D4x+b0+IXa8dTbwfrk+u3e/IXK9/rxrZubivSlz/XQ//GSmOrH09r0nOnD+PXphdfb+YjY7YLJ9Pbx8KPxgYqfkeTZwP3sy8r+/N7I7snf89jz1P329MfbiPCK3tCLz6KsoaSUloTP+vPd3P35xs3i7+zJ7Nnw1fr398zT///D3/n3j9uIk7ShrfCRw/vq1f/K0MXj75zKyuf6gOji29L/9Pne2Yjuy936ivCmi5azpMuW88T+6djwx9PA5Oqf1+vf9cfWhOLz4+2O1/7Z0LSNkYGOp6vOk8Xy4NTJ8drH5ejK+ePgwt7Q4oPd3P7Wzd7U/PqhmYzznZLzyPnxlMrD7//T58fB287o4N345drR/vv43dn7hNTml7aloPaLv/j08tD0lP7Z4++cyvec+t3r6+bZ44X2wODs6sjsjJaxiYCvjo/h4sPs4d/e8Jjt3+TpntjQ5Ybz1tvxzOPp+oX0+fG5m5WF9J+Tk8vF8pPgy8Ts3/b+xtXpgvjf7uKD/9zu0cv/1P/YiYKAqaeokMrH4/Pv/f/vwfH05MHN5/fC0d/vz+7viNbw7dLZ9oOApZmDqbzG5OLQ/5X+5PP85sHM7PGI+/T6zOzg/ong7u7N3YySqaCuiqmU5c/exuHfwMz5w9j0+cPF49z53Nfh4sj60/rb9P3+i4iBgqOMjuyT/f3sl/nH/JvI6pfa+fWC1O2G/Nvh4ejX7dPoj6SG+7aPhKnF6ufkwe7r6M3i65zGzueE9dDZ88Lt687x8v/82faDgKWKh4Sv95L25/PL+cDm6sPK5+zx1vvw9dL/8e782+yMxPLS9a2muqOyiuHi3Ov10M/k6dzL4PrugfrhxP/89fbf8Pn62/T9/YSV8vaDlpPB1vGU9OX9xfjN/Z2X4uSA+/j99vfQ8frR8PX+/9iJgK2kjYaHxcCX99DE7eObz+T/2M3Z8Iv68/vP7e//iuHp94/biJO0oa2ijevg5cLv5OnO4+ju2ff43MTg3f7d1ODtyvnS/dr3/IGmi4CFoo/O7fHxl+bB5evEy+Tt7tf48fLT/PDh/djti8Xx04qspbuks4mF49vq4fPU4e3r2OXp69j+4tnA99z30PH6+9z1/v/YkfH7jJauqurvyOvz85nrzPqclOP7gfj5+vf00f770vHy//zZ9oGupYqHhKHBkPbTxeLimM7j/tvMxoXm0+v6xe/awNXz/4za5NKGsqHxkY6P4eLD7OfIz+Dp6svOnf3Y0tzh99Hu5YjbiI/J6emG8aLwlYehnvCTxpeS3/mb0tv1n92Z4YOLxtbY4N3c+tLB2Pr4xqSE86+dnYiTwMnz0v3/nJrg/cLJ5vPw1dCH58DU/fOL3/TvyN2p9Iyh95O8+PbulMLv+t/IwerpzOjc29PJxPHUhY3M4OzyjfX3jvGg8IaLnPXl3sH+7cTL/f3Zye3E++vlht/20cf92OL1jOTpiqqbl/KooYH02ujOytLJ8fvE5/yTkg=="
-__FLYCER_VM._key = _FLYCER_KEY
-
-function __FLYCER_VM:__init()
-    local mt = {
-        __index = function(t, k)
-            if type(k) == "string" and #k > 7 then
-                return rawget(t, k)
-            end
-            return nil
-        end,
-        __newindex = function(t, k, v)
-            if type(k) == "string" then
-                rawset(t, k, v)
-            end
-        end,
-        __metatable = "f8467f0ae51cc757"
-    }
-    setmetatable(self, mt)
-    return self
-end
-
-function __FLYCER_VM:__decode_base64(data)
-    local b = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/'
+-- [FLYCER DECODER]
+local function __decode_90b0ac19(data)
+    local b='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/'
     data = string.gsub(data, '[^'..b..'=]', '')
     return (data:gsub('.', function(x)
-        if x == '=' then return '' end
-        local r, f = '', (b:find(x) - 1)
-        for i = 6, 1, -1 do
-            r = r .. (f % 2^i - f % 2^(i-1) > 0 and '1' or '0')
-        end
-        return r
+        if (x == '=') then return '' end
+        local r,f='',(b:find(x)-1)
+        for i=6,1,-1 do r=r..(f%2^i-f%2^(i-1)>0 and '1' or '0') end
+        return r;
     end):gsub('%d%d%d?%d?%d?%d?%d?%d?', function(x)
-        if #x ~= 8 then return '' end
-        local c = 0
-        for i = 1, 8 do
-            c = c + (x:sub(i,i) == '1' and 2^(8-i) or 0)
-        end
+        if (#x ~= 8) then return '' end
+        local c=0
+        for i=1,8 do c=c+(x:sub(i,i)=='1' and 2^(8-i) or 0) end
         return string.char(c)
     end))
 end
 
-function __FLYCER_VM:__decrypt_xor(str, key)
-    local result = {}
-    for i = 1, #str do
-        local byte = str:byte(i)
-        local xor_key = (key + (i % 37))
-        table.insert(result, string.char(byte ~ xor_key))
-    end
-    return table.concat(result)
+-- [FLYCER VALIDATOR]
+local function __verify_dfcab7d8()
+    return type(game)=="userdata" and type(loadstring)=="function"
 end
 
-function __FLYCER_VM:__execute()
-    -- Layer 1: Base64 decode
-    local layer1 = self:__decode_base64(self._encrypted)
-    if not layer1 or #layer1 == 0 then
-        error("FLYCER: Decryption failed at layer 1")
-        return
-    end
-    
-    -- Layer 2: XOR decrypt
-    local layer2 = self:__decrypt_xor(layer1, self._key)
-    if not layer2 or #layer2 == 0 then
-        error("FLYCER: Decryption failed at layer 2")
-        return
-    end
-    
-    -- Layer 3: Final base64 decode
-    local layer3 = self:__decode_base64(layer2)
-    if not layer3 or #layer3 == 0 then
-        error("FLYCER: Decryption failed at layer 3")
-        return
-    end
-    
-    -- Anti-debug check
-    local function __anti_debug_c25adf()
-        local start = tick()
-        for i = 1, 100 do
-            local _ = i * 2
-        end
-        local elapsed = tick() - start
-        return elapsed < 1
-    end
-    
-    if not __anti_debug_3bf5d2() then
-        return
-    end
-    
-    -- Execute decrypted code
-    local func, err = loadstring(layer3)
-    if func then
-        local success, result = pcall(func)
-        if not success then
-            warn("FLYCER: Runtime error - " .. tostring(result))
-        end
-    else
-        error("FLYCER: Load failed - " .. tostring(err))
-    end
-end
+-- [FLYCER ENCRYPTED PAYLOAD]
+local _FLYCER_ENCRYPTED_DATA="bG9jYWwgUGxheWVycyA9IGdhbWU6R2V0U2VydmljZSgiUGxheWVycyIpCmxvY2FsIFR3ZWVuU2VydmljZSA9IGdhbWU6R2V0U2VydmljZSgiVHdlZW5TZXJ2aWNlIikKbG9jYWwgVXNlcklucHV0U2VydmljZSA9IGdhbWU6R2V0U2VydmljZSgiVXNlcklucHV0U2VydmljZSIpCmxvY2FsIExvY2FsUGxheWVyID0gUGxheWVycy5Mb2NhbFBsYXllcgoKbG9jYWwgRGlzdGFuY2VNZXRlciA9IHt9CgotLSBDb25maWcKbG9jYWwgQ09ORklHID0gewogICAgR1VJX1NJWkUgPSBVRGltMi5uZXcoMCwgMjgwLCAwLCAxNDApLAogICAgUFJJTUFSWV9DT0xPUiA9IENvbG9yMy5mcm9tUkdCKDMwLCAzMCwgNDApLAogICAgQUNDRU5UX0NPTE9SID0gQ29sb3IzLmZyb21SR0IoMTAwLCAxNTAsIDI1NSksCiAgICBTVEFSVF9DT0xPUiA9IENvbG9yMy5mcm9tUkdCKDcwLCAyMDAsIDkwKSwKICAgIFNUT1BfQ09MT1IgPSBDb2xvcjMuZnJvbVJHQigyNTUsIDgwLCA4MCksCiAgICBURVhUX0NPTE9SID0gQ29sb3IzLmZyb21SR0IoMjU1LCAyNTUsIDI1NSkKfQoKLS0gVmFyaWFibGVzCmxvY2FsIHN0YXJ0UG9zaXRpb24gPSBuaWwKbG9jYWwgaXNSdW5uaW5nID0gZmFsc2UKbG9jYWwgZGlzdGFuY2VMYWJlbCA9IG5pbApsb2NhbCBzdGFydEJ1dHRvbiA9IG5pbApsb2NhbCBzdG9wQnV0dG9uID0gbmlsCgotLSBDcmVhdGUgU2NyZWVuR3VpCmxvY2FsIGZ1bmN0aW9uIGNyZWF0ZVNjcmVlbkd1aSgpCiAgICBsb2NhbCBzY3JlZW5HdWkgPSBJbnN0YW5jZS5uZXcoIlNjcmVlbkd1aSIpCiAgICBzY3JlZW5HdWkuTmFtZSA9ICJEaXN0YW5jZU1ldGVyR1VJIgogICAgc2NyZWVuR3VpLlJlc2V0T25TcGF3biA9IGZhbHNlCiAgICBzY3JlZW5HdWkuWkluZGV4QmVoYXZpb3IgPSBFbnVtLlpJbmRleEJlaGF2aW9yLlNpYmxpbmcKICAgIAogICAgaWYgZ2V0aHVpIHRoZW4KICAgICAgICBzY3JlZW5HdWkuUGFyZW50ID0gZ2V0aHVpKCkKICAgIGVsc2VpZiBzeW4gYW5kIHN5bi5wcm90ZWN0X2d1aSB0aGVuCiAgICAgICAgc3luLnByb3RlY3RfZ3VpKHNjcmVlbkd1aSkKICAgICAgICBzY3JlZW5HdWkuUGFyZW50ID0gZ2FtZTpHZXRTZXJ2aWNlKCJDb3JlR3VpIikKICAgIGVsc2UKICAgICAgICBzY3JlZW5HdWkuUGFyZW50ID0gZ2FtZTpHZXRTZXJ2aWNlKCJDb3JlR3VpIikKICAgIGVuZAogICAgCiAgICByZXR1cm4gc2NyZWVuR3VpCmVuZAoKLS0gQ3JlYXRlIE1haW4gRnJhbWUKbG9jYWwgZnVuY3Rpb24gY3JlYXRlTWFpbkZyYW1lKHBhcmVudCkKICAgIGxvY2FsIGZyYW1lID0gSW5zdGFuY2UubmV3KCJGcmFtZSIpCiAgICBmcmFtZS5OYW1lID0gIk1haW5GcmFtZSIKICAgIGZyYW1lLlNpemUgPSBDT05GSUcuR1VJX1NJWkUKICAgIGZyYW1lLlBvc2l0aW9uID0gVURpbTIubmV3KDAuNSwgLTE0MCwgMC41LCAtNzApCiAgICBmcmFtZS5CYWNrZ3JvdW5kQ29sb3IzID0gQ09ORklHLlBSSU1BUllfQ09MT1IKICAgIGZyYW1lLkJvcmRlclNpemVQaXhlbCA9IDAKICAgIGZyYW1lLkFjdGl2ZSA9IHRydWUKICAgIGZyYW1lLkRyYWdnYWJsZSA9IHRydWUKICAgIGZyYW1lLlBhcmVudCA9IHBhcmVudAogICAgCiAgICBsb2NhbCBjb3JuZXIgPSBJbnN0YW5jZS5uZXcoIlVJQ29ybmVyIikKICAgIGNvcm5lci5Db3JuZXJSYWRpdXMgPSBVRGltLm5ldygwLCAxMikKICAgIGNvcm5lci5QYXJlbnQgPSBmcmFtZQogICAgCiAgICBsb2NhbCBzaGFkb3cgPSBJbnN0YW5jZS5uZXcoIkltYWdlTGFiZWwiKQogICAgc2hhZG93Lk5hbWUgPSAiU2hhZG93IgogICAgc2hhZG93LkJhY2tncm91bmRUcmFuc3BhcmVuY3kgPSAxCiAgICBzaGFkb3cuUG9zaXRpb24gPSBVRGltMi5uZXcoMCwgLTE1LCAwLCAtMTUpCiAgICBzaGFkb3cuU2l6ZSA9IFVEaW0yLm5ldygxLCAzMCwgMSwgMzApCiAgICBzaGFkb3cuWkluZGV4ID0gMAogICAgc2hhZG93LkltYWdlID0gInJieGFzc2V0Oi8vdGV4dHVyZXMvdWkvR3VpSW1hZ2VQbGFjZWhvbGRlci5wbmciCiAgICBzaGFkb3cuSW1hZ2VDb2xvcjMgPSBDb2xvcjMuZnJvbVJHQigwLCAwLCAwKQogICAgc2hhZG93LkltYWdlVHJhbnNwYXJlbmN5ID0gMC43CiAgICBzaGFkb3cuU2NhbGVUeXBlID0gRW51bS5TY2FsZVR5cGUuU2xpY2UKICAgIHNoYWRvdy5TbGljZUNlbnRlciA9IFJlY3QubmV3KDEwLCAxMCwgMTAsIDEwKQogICAgc2hhZG93LlBhcmVudCA9IGZyYW1lCiAgICAKICAgIHJldHVybiBmcmFtZQplbmQKCi0tIENyZWF0ZSBIZWFkZXIKbG9jYWwgZnVuY3Rpb24gY3JlYXRlSGVhZGVyKHBhcmVudCkKICAgIGxvY2FsIGhlYWRlciA9IEluc3RhbmNlLm5ldygiRnJhbWUiKQogICAgaGVhZGVyLk5hbWUgPSAiSGVhZGVyIgogICAgaGVhZGVyLlNpemUgPSBVRGltMi5uZXcoMSwgMCwgMCwgNDApCiAgICBoZWFkZXIuQmFja2dyb3VuZENvbG9yMyA9IENPTkZJRy5BQ0NFTlRfQ09MT1IKICAgIGhlYWRlci5Cb3JkZXJTaXplUGl4ZWwgPSAwCiAgICBoZWFkZXIuUGFyZW50ID0gcGFyZW50CiAgICAKICAgIGxvY2FsIGhlYWRlckNvcm5lciA9IEluc3RhbmNlLm5ldygiVUlDb3JuZXIiKQogICAgaGVhZGVyQ29ybmVyLkNvcm5lclJhZGl1cyA9IFVEaW0ubmV3KDAsIDEyKQogICAgaGVhZGVyQ29ybmVyLlBhcmVudCA9IGhlYWRlcgogICAgCiAgICBsb2NhbCBoZWFkZXJCb3R0b20gPSBJbnN0YW5jZS5uZXcoIkZyYW1lIikKICAgIGhlYWRlckJvdHRvbS5TaXplID0gVURpbTIubmV3KDEsIDAsIDAsIDEyKQogICAgaGVhZGVyQm90dG9tLlBvc2l0aW9uID0gVURpbTIubmV3KDAsIDAsIDEsIC0xMikKICAgIGhlYWRlckJvdHRvbS5CYWNrZ3JvdW5kQ29sb3IzID0gQ09ORklHLkFDQ0VOVF9DT0xPUgogICAgaGVhZGVyQm90dG9tLkJvcmRlclNpemVQaXhlbCA9IDAKICAgIGhlYWRlckJvdHRvbS5QYXJlbnQgPSBoZWFkZXIKICAgIAogICAgbG9jYWwgdGl0bGUgPSBJbnN0YW5jZS5uZXcoIlRleHRMYWJlbCIpCiAgICB0aXRsZS5OYW1lID0gIlRpdGxlIgogICAgdGl0bGUuU2l6ZSA9IFVEaW0yLm5ldygxLCAtMjAsIDEsIDApCiAgICB0aXRsZS5Qb3NpdGlvbiA9IFVEaW0yLm5ldygwLCAxMCwgMCwgMCkKICAgIHRpdGxlLkJhY2tncm91bmRUcmFuc3BhcmVuY3kgPSAxCiAgICB0aXRsZS5UZXh0ID0gIkRpc3RhbmNlIE1ldGVyIgogICAgdGl0bGUuRm9udCA9IEVudW0uRm9udC5Hb3RoYW1Cb2xkCiAgICB0aXRsZS5UZXh0U2l6ZSA9IDE2CiAgICB0aXRsZS5UZXh0Q29sb3IzID0gQ09ORklHLlRFWFRfQ09MT1IKICAgIHRpdGxlLlRleHRYQWxpZ25tZW50ID0gRW51bS5UZXh0WEFsaWdubWVudC5MZWZ0CiAgICB0aXRsZS5QYXJlbnQgPSBoZWFkZXIKICAgIAogICAgbG9jYWwgY2xvc2VCdXR0b24gPSBJbnN0YW5jZS5uZXcoIlRleHRCdXR0b24iKQogICAgY2xvc2VCdXR0b24uTmFtZSA9ICJDbG9zZUJ1dHRvbiIKICAgIGNsb3NlQnV0dG9uLlNpemUgPSBVRGltMi5uZXcoMCwgMzAsIDAsIDMwKQogICAgY2xvc2VCdXR0b24uUG9zaXRpb24gPSBVRGltMi5uZXcoMSwgLTM1LCAwLCA1KQogICAgY2xvc2VCdXR0b24uQmFja2dyb3VuZENvbG9yMyA9IENvbG9yMy5mcm9tUkdCKDI1NSwgNzAsIDcwKQogICAgY2xvc2VCdXR0b24uQm9yZGVyU2l6ZVBpeGVsID0gMAogICAgY2xvc2VCdXR0b24uVGV4dCA9ICLDlyIKICAgIGNsb3NlQnV0dG9uLkZvbnQgPSBFbnVtLkZvbnQuR290aGFtQm9sZAogICAgY2xvc2VCdXR0b24uVGV4dFNpemUgPSAyMAogICAgY2xvc2VCdXR0b24uVGV4dENvbG9yMyA9IENPTkZJRy5URVhUX0NPTE9SCiAgICBjbG9zZUJ1dHRvbi5QYXJlbnQgPSBoZWFkZXIKICAgIAogICAgbG9jYWwgY2xvc2VDb3JuZXIgPSBJbnN0YW5jZS5uZXcoIlVJQ29ybmVyIikKICAgIGNsb3NlQ29ybmVyLkNvcm5lclJhZGl1cyA9IFVEaW0ubmV3KDAsIDgpCiAgICBjbG9zZUNvcm5lci5QYXJlbnQgPSBjbG9zZUJ1dHRvbgogICAgCiAgICBjbG9zZUJ1dHRvbi5Nb3VzZUJ1dHRvbjFDbGljazpDb25uZWN0KGZ1bmN0aW9uKCkKICAgICAgICBwYXJlbnQuUGFyZW50OkRlc3Ryb3koKQogICAgZW5kKQogICAgCiAgICByZXR1cm4gaGVhZGVyCmVuZAoKLS0gQ3JlYXRlIERpc3RhbmNlIERpc3BsYXkKbG9jYWwgZnVuY3Rpb24gY3JlYXRlRGlzdGFuY2VEaXNwbGF5KHBhcmVudCkKICAgIGxvY2FsIGRpc3BsYXlGcmFtZSA9IEluc3RhbmNlLm5ldygiRnJhbWUiKQogICAgZGlzcGxheUZyYW1lLk5hbWUgPSAiRGlzcGxheUZyYW1lIgogICAgZGlzcGxheUZyYW1lLlNpemUgPSBVRGltMi5uZXcoMSwgLTIwLCAwLCA1MCkKICAgIGRpc3BsYXlGcmFtZS5Qb3NpdGlvbiA9IFVEaW0yLm5ldygwLCAxMCwgMCwgNTApCiAgICBkaXNwbGF5RnJhbWUuQmFja2dyb3VuZENvbG9yMyA9IENvbG9yMy5mcm9tUkdCKDQwLCA0MCwgNTApCiAgICBkaXNwbGF5RnJhbWUuQm9yZGVyU2l6ZVBpeGVsID0gMAogICAgZGlzcGxheUZyYW1lLlBhcmVudCA9IHBhcmVudAogICAgCiAgICBsb2NhbCBkaXNwbGF5Q29ybmVyID0gSW5zdGFuY2UubmV3KCJVSUNvcm5lciIpCiAgICBkaXNwbGF5Q29ybmVyLkNvcm5lclJhZGl1cyA9IFVEaW0ubmV3KDAsIDEwKQogICAgZGlzcGxheUNvcm5lci5QYXJlbnQgPSBkaXNwbGF5RnJhbWUKICAgIAogICAgbG9jYWwgZGlzdGFuY2VUZXh0ID0gSW5zdGFuY2UubmV3KCJUZXh0TGFiZWwiKQogICAgZGlzdGFuY2VUZXh0Lk5hbWUgPSAiRGlzdGFuY2VUZXh0IgogICAgZGlzdGFuY2VUZXh0LlNpemUgPSBVRGltMi5uZXcoMSwgMCwgMSwgMCkKICAgIGRpc3RhbmNlVGV4dC5CYWNrZ3JvdW5kVHJhbnNwYXJlbmN5ID0gMQogICAgZGlzdGFuY2VUZXh0LlRleHQgPSAiMC4wMCBzdHVkcyIKICAgIGRpc3RhbmNlVGV4dC5Gb250ID0gRW51bS5Gb250LkdvdGhhbUJvbGQKICAgIGRpc3RhbmNlVGV4dC5UZXh0U2l6ZSA9IDI0CiAgICBkaXN0YW5jZVRleHQuVGV4dENvbG9yMyA9IENPTkZJRy5BQ0NFTlRfQ09MT1IKICAgIGRpc3RhbmNlVGV4dC5QYXJlbnQgPSBkaXNwbGF5RnJhbWUKICAgIAogICAgcmV0dXJuIGRpc3RhbmNlVGV4dAplbmQKCi0tIENyZWF0ZSBCdXR0b24KbG9jYWwgZnVuY3Rpb24gY3JlYXRlQnV0dG9uKHBhcmVudCwgdGV4dCwgcG9zaXRpb24sIGNvbG9yKQogICAgbG9jYWwgYnV0dG9uID0gSW5zdGFuY2UubmV3KCJUZXh0QnV0dG9uIikKICAgIGJ1dHRvbi5OYW1lID0gdGV4dCAuLiAiQnV0dG9uIgogICAgYnV0dG9uLlNpemUgPSBVRGltMi5uZXcoMCwgMTIwLCAwLCAzNSkKICAgIGJ1dHRvbi5Qb3NpdGlvbiA9IHBvc2l0aW9uCiAgICBidXR0b24uQmFja2dyb3VuZENvbG9yMyA9IGNvbG9yCiAgICBidXR0b24uQm9yZGVyU2l6ZVBpeGVsID0gMAogICAgYnV0dG9uLlRleHQgPSB0ZXh0CiAgICBidXR0b24uRm9udCA9IEVudW0uRm9udC5Hb3RoYW1Cb2xkCiAgICBidXR0b24uVGV4dFNpemUgPSAxNAogICAgYnV0dG9uLlRleHRDb2xvcjMgPSBDT05GSUcuVEVYVF9DT0xPUgogICAgYnV0dG9uLkF1dG9CdXR0b25Db2xvciA9IGZhbHNlCiAgICBidXR0b24uUGFyZW50ID0gcGFyZW50CiAgICAKICAgIGxvY2FsIGJ1dHRvbkNvcm5lciA9IEluc3RhbmNlLm5ldygiVUlDb3JuZXIiKQogICAgYnV0dG9uQ29ybmVyLkNvcm5lclJhZGl1cyA9IFVEaW0ubmV3KDAsIDgpCiAgICBidXR0b25Db3JuZXIuUGFyZW50ID0gYnV0dG9uCiAgICAKICAgIGxvY2FsIGJ1dHRvblN0cm9rZSA9IEluc3RhbmNlLm5ldygiVUlTdHJva2UiKQogICAgYnV0dG9uU3Ryb2tlLkNvbG9yID0gQ29sb3IzLmZyb21SR0IoMjU1LCAyNTUsIDI1NSkKICAgIGJ1dHRvblN0cm9rZS5UcmFuc3BhcmVuY3kgPSAwLjgKICAgIGJ1dHRvblN0cm9rZS5UaGlja25lc3MgPSAxCiAgICBidXR0b25TdHJva2UuUGFyZW50ID0gYnV0dG9uCiAgICAKICAgIGJ1dHRvbi5Nb3VzZUVudGVyOkNvbm5lY3QoZnVuY3Rpb24oKQogICAgICAgIFR3ZWVuU2VydmljZTpDcmVhdGUoYnV0dG9uLCBUd2VlbkluZm8ubmV3KDAuMiksIHtCYWNrZ3JvdW5kQ29sb3IzID0gQ29sb3IzLmZyb21SR0IoCiAgICAgICAgICAgIG1hdGgubWluKGNvbG9yLlIgKiAyNTUgKiAxLjIsIDI1NSksCiAgICAgICAgICAgIG1hdGgubWluKGNvbG9yLkcgKiAyNTUgKiAxLjIsIDI1NSksCiAgICAgICAgICAgIG1hdGgubWluKGNvbG9yLkIgKiAyNTUgKiAxLjIsIDI1NSkKICAgICAgICApfSk6UGxheSgpCiAgICBlbmQpCiAgICAKICAgIGJ1dHRvbi5Nb3VzZUxlYXZlOkNvbm5lY3QoZnVuY3Rpb24oKQogICAgICAgIFR3ZWVuU2VydmljZTpDcmVhdGUoYnV0dG9uLCBUd2VlbkluZm8ubmV3KDAuMiksIHtCYWNrZ3JvdW5kQ29sb3IzID0gY29sb3J9KTpQbGF5KCkKICAgIGVuZCkKICAgIAogICAgcmV0dXJuIGJ1dHRvbgplbmQKCi0tIFVwZGF0ZSBEaXN0YW5jZQpsb2NhbCBmdW5jdGlvbiB1cGRhdGVEaXN0YW5jZSgpCiAgICB3aGlsZSBpc1J1bm5pbmcgZG8KICAgICAgICBsb2NhbCBjaGFyYWN0ZXIgPSBMb2NhbFBsYXllci5DaGFyYWN0ZXIKICAgICAgICBpZiBjaGFyYWN0ZXIgYW5kIGNoYXJhY3RlcjpGaW5kRmlyc3RDaGlsZCgiSHVtYW5vaWRSb290UGFydCIpIGFuZCBzdGFydFBvc2l0aW9uIHRoZW4KICAgICAgICAgICAgbG9jYWwgY3VycmVudFBvc2l0aW9uID0gY2hhcmFjdGVyLkh1bWFub2lkUm9vdFBhcnQuUG9zaXRpb24KICAgICAgICAgICAgbG9jYWwgZGlzdGFuY2UgPSAoY3VycmVudFBvc2l0aW9uIC0gc3RhcnRQb3NpdGlvbikuTWFnbml0dWRlCiAgICAgICAgICAgIGRpc3RhbmNlTGFiZWwuVGV4dCA9IHN0cmluZy5mb3JtYXQoIiUuMmYgc3R1ZHMiLCBkaXN0YW5jZSkKICAgICAgICBlbmQKICAgICAgICB0YXNrLndhaXQoMC4wNSkKICAgIGVuZAplbmQKCi0tIFN0YXJ0IE1lYXN1cmVtZW50CmxvY2FsIGZ1bmN0aW9uIHN0YXJ0TWVhc3VyZW1lbnQoKQogICAgbG9jYWwgY2hhcmFjdGVyID0gTG9jYWxQbGF5ZXIuQ2hhcmFjdGVyCiAgICBpZiBub3QgY2hhcmFjdGVyIG9yIG5vdCBjaGFyYWN0ZXI6RmluZEZpcnN0Q2hpbGQoIkh1bWFub2lkUm9vdFBhcnQiKSB0aGVuCiAgICAgICAgcmV0dXJuCiAgICBlbmQKICAgIAogICAgc3RhcnRQb3NpdGlvbiA9IGNoYXJhY3Rlci5IdW1hbm9pZFJvb3RQYXJ0LlBvc2l0aW9uCiAgICBpc1J1bm5pbmcgPSB0cnVlCiAgICAKICAgIHN0YXJ0QnV0dG9uLlZpc2libGUgPSBmYWxzZQogICAgc3RvcEJ1dHRvbi5WaXNpYmxlID0gdHJ1ZQogICAgCiAgICBkaXN0YW5jZUxhYmVsLlRleHQgPSAiMC4wMCBzdHVkcyIKICAgIAogICAgdGFzay5zcGF3bih1cGRhdGVEaXN0YW5jZSkKZW5kCgotLSBTdG9wIE1lYXN1cmVtZW50CmxvY2FsIGZ1bmN0aW9uIHN0b3BNZWFzdXJlbWVudCgpCiAgICBpc1J1bm5pbmcgPSBmYWxzZQogICAgCiAgICBzdGFydEJ1dHRvbi5WaXNpYmxlID0gdHJ1ZQogICAgc3RvcEJ1dHRvbi5WaXNpYmxlID0gZmFsc2UKZW5kCgotLSBJbml0aWFsaXplIEdVSQpmdW5jdGlvbiBEaXN0YW5jZU1ldGVyLkluaXQoKQogICAgbG9jYWwgc2NyZWVuR3VpID0gY3JlYXRlU2NyZWVuR3VpKCkKICAgIGxvY2FsIG1haW5GcmFtZSA9IGNyZWF0ZU1haW5GcmFtZShzY3JlZW5HdWkpCiAgICBjcmVhdGVIZWFkZXIobWFpbkZyYW1lKQogICAgZGlzdGFuY2VMYWJlbCA9IGNyZWF0ZURpc3RhbmNlRGlzcGxheShtYWluRnJhbWUpCiAgICAKICAgIHN0YXJ0QnV0dG9uID0gY3JlYXRlQnV0dG9uKAogICAgICAgIG1haW5GcmFtZSwKICAgICAgICAiU1RBUlQiLAogICAgICAgIFVEaW0yLm5ldygwLCAxNSwgMCwgMTA1KSwKICAgICAgICBDT05GSUcuU1RBUlRfQ09MT1IKICAgICkKICAgIAogICAgc3RvcEJ1dHRvbiA9IGNyZWF0ZUJ1dHRvbigKICAgICAgICBtYWluRnJhbWUsCiAgICAgICAgIlNUT1AiLAogICAgICAgIFVEaW0yLm5ldygwLCAxNDUsIDAsIDEwNSksCiAgICAgICAgQ09ORklHLlNUT1BfQ09MT1IKICAgICkKICAgIAogICAgc3RvcEJ1dHRvbi5WaXNpYmxlID0gZmFsc2UKICAgIAogICAgc3RhcnRCdXR0b24uTW91c2VCdXR0b24xQ2xpY2s6Q29ubmVjdChzdGFydE1lYXN1cmVtZW50KQogICAgc3RvcEJ1dHRvbi5Nb3VzZUJ1dHRvbjFDbGljazpDb25uZWN0KHN0b3BNZWFzdXJlbWVudCkKZW5kCgpEaXN0YW5jZU1ldGVyLkluaXQoKQ=="
 
--- [FLYCER SECURITY VERIFICATION]
-local __FLYCER_SECURITY = {
-    ["efe96c7f64ea"] = true,
-    ["8c70e1fa7bb7"] = true,
-    ["7becf9be60ea"] = true,
-    ["6548999c62ff"] = true,
-    ["2ca642816285"] = true,
-}
-
--- [FLYCER ANTI-TAMPER]
-local function __verify_eee088ed()
-    local checks = {
-        type(loadstring) == "function",
-        type(game) == "userdata",
-        type(game.GetService) == "function",
-        _FLYCER_ENTROPY > 0,
-        #_FLYCER_MAGIC > 50
-    }
-    for _, check in ipairs(checks) do
-        if not check then
-            return false
+-- [FLYCER EXECUTION ENGINE]
+local function __exec_083b0005()
+    if not __verify_dfcab7d8() then 
+        return 
+    end
+    
+    local __flycer_502c7348 = __decode_90b0ac19(_FLYCER_ENCRYPTED_DATA)
+    
+    if __flycer_502c7348 and #__flycer_502c7348 > 0 then
+        local func, err = loadstring(__flycer_502c7348)
+        if func then
+            local success, result = pcall(func)
+            if not success then
+                warn("FLYCER: "..tostring(result))
+            end
+        else
+            warn("FLYCER: "..tostring(err))
         end
     end
-    return true
 end
 
--- [FLYCER EXECUTION CHAIN]
-if __verify_a004b39a() then
-    local vm = __FLYCER_VM:__init()
-    vm:__execute()
-    
-    -- Self-destruct (optional)
-    task.defer(function()
-        __FLYCER_VM = nil
-        _FLYCER_MAGIC = nil
-        _FLYCER_SIGNATURE = nil
-    end)
-else
-    error("FLYCER: Security verification failed")
-end
+-- [FLYCER RUNTIME INITIALIZATION]
+__exec_083b0005()
+
+-- [FLYCER CLEANUP]
+task.defer(function()
+    _FLYCER_ENCRYPTED_DATA = nil
+    _FLYCER_BINARY = nil
+    _FLYCER_WATERMARK = nil
+end)
 
 --[[
 ╔═══════════════════════════════════════════════════════════════╗
-║                    🌙 FLYCER PROTECTION 🌙                    ║
-║        Taqabbalallahu minna wa minkum - Ramadhan 2026         ║
+║                  Protected by FLYCER 🌙                       ║
+║        Ramadhan Kareem - Semoga diberkahi Allah SWT 🤲        ║
 ╚═══════════════════════════════════════════════════════════════╝
 --]]
